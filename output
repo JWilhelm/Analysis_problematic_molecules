@@ -1,0 +1,1490 @@
+Molecule: .git  Formula: N/A
+ aug-cc-pVDZ : GW gap    N/A   DFT LUMO    N/A
+ aug-cc-pVTZ : GW gap    N/A   DFT LUMO    N/A
+ aug-cc-pVQZ : GW gap    N/A   DFT LUMO    N/A
+ aug-cc-pV5Z : GW gap    N/A   DFT LUMO    N/A
+ aug-SZVSR   : GW gap    N/A   DFT LUMO    N/A
+ aug-SZV     : GW gap    N/A   DFT LUMO    N/A
+ aug-DZVP    : GW gap    N/A   DFT LUMO    N/A
+ aug-TZVP    : GW gap    N/A   DFT LUMO    N/A
+
+Molecule: BAZGUF  Formula: H5C2O1F3Si1
+ aug-cc-pVDZ : GW gap  10.872   DFT LUMO  -0.342
+ aug-cc-pVTZ : GW gap  11.145   DFT LUMO  -0.351
+ aug-cc-pVQZ : GW gap  11.300   DFT LUMO  -0.360
+ aug-cc-pV5Z : GW gap  11.323   DFT LUMO  -0.371
+ aug-SZVSR   : GW gap  11.467   DFT LUMO  -0.126
+ aug-SZV     : GW gap  11.599   DFT LUMO  -0.252
+ aug-DZVP    : GW gap  11.418   DFT LUMO  -0.233
+ aug-TZVP    : GW gap  11.291   DFT LUMO  -0.314
+
+Molecule: BUYKOW  Formula: H8C4O2F2
+ aug-cc-pVDZ : GW gap  11.122   DFT LUMO  -0.141
+ aug-cc-pVTZ : GW gap  11.411   DFT LUMO  -0.166
+ aug-cc-pVQZ : GW gap  11.565   DFT LUMO  -0.177
+ aug-cc-pV5Z : GW gap  11.601   DFT LUMO  -0.192
+ aug-SZVSR   : GW gap  11.443   DFT LUMO   0.160
+ aug-SZV     : GW gap  11.979   DFT LUMO   0.012
+ aug-DZVP    : GW gap  11.716   DFT LUMO  -0.042
+ aug-TZVP    : GW gap  11.588   DFT LUMO  -0.145
+
+Molecule: CABQAZ  Formula: H9C6N3Cl2
+ aug-cc-pVDZ : GW gap  10.115   DFT LUMO  -0.585
+ aug-cc-pVTZ : GW gap  10.262   DFT LUMO  -0.593
+ aug-cc-pVQZ : GW gap  10.338   DFT LUMO  -0.598
+ aug-cc-pV5Z : GW gap  10.350   DFT LUMO  -0.603
+ aug-SZVSR   : GW gap  10.837   DFT LUMO  -0.565
+ aug-SZV     : GW gap  10.848   DFT LUMO  -0.913
+ aug-DZVP    : GW gap  10.612   DFT LUMO  -0.649
+ aug-TZVP    : GW gap  10.514   DFT LUMO  -0.588
+
+Molecule: CLANIC04  Formula: H6C6N1Cl1
+ aug-cc-pVDZ : GW gap   8.028   DFT LUMO  -0.559
+ aug-cc-pVTZ : GW gap   8.264   DFT LUMO  -0.571
+ aug-cc-pVQZ : GW gap   8.382   DFT LUMO  -0.574
+ aug-cc-pV5Z : GW gap   8.412   DFT LUMO  -0.574
+ aug-SZVSR   : GW gap   8.586   DFT LUMO  -0.438
+ aug-SZV     : GW gap   8.743   DFT LUMO  -0.509
+ aug-DZVP    : GW gap   8.565   DFT LUMO  -0.588
+ aug-TZVP    : GW gap   8.467   DFT LUMO  -0.570
+
+Molecule: DCACON  Formula: H4C3O1Cl2
+ aug-cc-pVDZ : GW gap  10.445   DFT LUMO  -1.332
+ aug-cc-pVTZ : GW gap  10.727   DFT LUMO  -1.326
+ aug-cc-pVQZ : GW gap  10.826   DFT LUMO  -1.327
+ aug-cc-pV5Z : GW gap  10.861   DFT LUMO  -1.327
+ aug-SZVSR   : GW gap  10.720   DFT LUMO  -0.877
+ aug-SZV     : GW gap  11.018   DFT LUMO  -1.800
+ aug-DZVP    : GW gap  10.853   DFT LUMO  -1.459
+ aug-TZVP    : GW gap  10.803   DFT LUMO  -1.323
+
+Molecule: DMSULO02  Formula: H6C2O2S1
+ aug-cc-pVDZ : GW gap  10.502   DFT LUMO  -0.395
+ aug-cc-pVTZ : GW gap  10.934   DFT LUMO  -0.412
+ aug-cc-pVQZ : GW gap  11.143   DFT LUMO  -0.420
+ aug-cc-pV5Z : GW gap  11.222   DFT LUMO  -0.428
+ aug-SZVSR   : GW gap  10.741   DFT LUMO   0.140
+ aug-SZV     : GW gap  11.372   DFT LUMO  -0.194
+ aug-DZVP    : GW gap  11.162   DFT LUMO  -0.338
+ aug-TZVP    : GW gap  11.149   DFT LUMO  -0.379
+
+Molecule: DTHDOM  Formula: H8C4O2S2
+ aug-cc-pVDZ : GW gap   8.642   DFT LUMO  -0.771
+ aug-cc-pVTZ : GW gap   8.834   DFT LUMO  -0.759
+ aug-cc-pVQZ : GW gap   9.004   DFT LUMO  -0.769
+ aug-cc-pV5Z : GW gap   9.049   DFT LUMO  -0.780
+ aug-SZVSR   : GW gap   8.894   DFT LUMO  -0.671
+ aug-SZV     : GW gap   9.075   DFT LUMO  -0.838
+ aug-DZVP    : GW gap   8.935   DFT LUMO  -0.751
+ aug-TZVP    : GW gap   9.026   DFT LUMO  -0.777
+
+Molecule: FETXAD  Formula: H11C5N1O2
+ aug-cc-pVDZ : GW gap   9.190   DFT LUMO  -0.311
+ aug-cc-pVTZ : GW gap   9.546   DFT LUMO  -0.333
+ aug-cc-pVQZ : GW gap   9.717   DFT LUMO  -0.341
+ aug-cc-pV5Z : GW gap   9.774   DFT LUMO  -0.353
+ aug-SZVSR   : GW gap   9.024   DFT LUMO   0.078
+ aug-SZV     : GW gap   9.963   DFT LUMO  -0.320
+ aug-DZVP    : GW gap   9.757   DFT LUMO  -0.270
+ aug-TZVP    : GW gap   9.648   DFT LUMO  -0.325
+
+Molecule: FORHEZ  Formula: H6C5N2O2S1
+ aug-cc-pVDZ : GW gap   8.002   DFT LUMO  -3.101
+ aug-cc-pVTZ : GW gap   7.903   DFT LUMO  -3.110
+ aug-cc-pVQZ : GW gap   7.884   DFT LUMO  -3.116
+ aug-cc-pV5Z : GW gap   7.862   DFT LUMO  -3.122
+ aug-SZVSR   : GW gap   8.508   DFT LUMO  -2.338
+ aug-SZV     : GW gap   7.840   DFT LUMO  -3.776
+ aug-DZVP    : GW gap   7.895   DFT LUMO  -3.306
+ aug-TZVP    : GW gap   7.909   DFT LUMO  -3.122
+
+Molecule: GAFLAB  Formula: H2C2F2
+ aug-cc-pVDZ : GW gap  10.739   DFT LUMO  -0.111
+ aug-cc-pVTZ : GW gap  10.997   DFT LUMO  -0.144
+ aug-cc-pVQZ : GW gap  11.117   DFT LUMO  -0.159
+ aug-cc-pV5Z : GW gap  11.146   DFT LUMO  -0.176
+ aug-SZVSR   : GW gap  12.286   DFT LUMO  -0.110
+ aug-SZV     : GW gap  11.915   DFT LUMO  -0.121
+ aug-DZVP    : GW gap  11.319   DFT LUMO   0.022
+ aug-TZVP    : GW gap  11.276   DFT LUMO  -0.064
+
+Molecule: GEDJEG  Formula: H8Si5Cl4
+ aug-cc-pVDZ : GW gap   9.485   DFT LUMO  -1.497
+ aug-cc-pVTZ : GW gap   9.465   DFT LUMO  -1.531
+ aug-cc-pVQZ : GW gap   9.532   DFT LUMO  -1.545
+ aug-cc-pV5Z : GW gap   9.546   DFT LUMO  -1.567
+ aug-SZVSR   : GW gap   9.755   DFT LUMO  -1.794
+ aug-SZV     : GW gap   9.797   DFT LUMO  -1.763
+ aug-DZVP    : GW gap   9.526   DFT LUMO  -1.658
+ aug-TZVP    : GW gap   9.551   DFT LUMO  -1.569
+
+Molecule: GIRRII01  Formula: H4N4S4
+ aug-cc-pVDZ : GW gap   8.860   DFT LUMO  -0.629
+ aug-cc-pVTZ : GW gap   9.012   DFT LUMO  -0.639
+ aug-cc-pVQZ : GW gap   9.160   DFT LUMO  -0.651
+ aug-cc-pV5Z : GW gap   9.185   DFT LUMO  -0.667
+ aug-SZVSR   : GW gap   9.217   DFT LUMO  -0.753
+ aug-SZV     : GW gap   9.400   DFT LUMO  -0.722
+ aug-DZVP    : GW gap   9.109   DFT LUMO  -0.517
+ aug-TZVP    : GW gap   9.209   DFT LUMO  -0.663
+
+Molecule: HIJCEI  Formula: H8C4O3S1
+ aug-cc-pVDZ : GW gap   9.873   DFT LUMO  -0.313
+ aug-cc-pVTZ : GW gap  10.177   DFT LUMO  -0.337
+ aug-cc-pVQZ : GW gap  10.341   DFT LUMO  -0.349
+ aug-cc-pV5Z : GW gap  10.415   DFT LUMO  -0.362
+ aug-SZVSR   : GW gap  10.011   DFT LUMO   0.228
+ aug-SZV     : GW gap  11.061   DFT LUMO  -0.569
+ aug-DZVP    : GW gap  10.564   DFT LUMO  -0.287
+ aug-TZVP    : GW gap  10.399   DFT LUMO  -0.332
+
+Molecule: HORZEU  Formula: H9C5N1O1S1
+ aug-cc-pVDZ : GW gap   9.160   DFT LUMO  -0.359
+ aug-cc-pVTZ : GW gap   9.403   DFT LUMO  -0.379
+ aug-cc-pVQZ : GW gap   9.572   DFT LUMO  -0.390
+ aug-cc-pV5Z : GW gap   9.635   DFT LUMO  -0.401
+ aug-SZVSR   : GW gap   9.723   DFT LUMO  -0.058
+ aug-SZV     : GW gap   9.928   DFT LUMO  -0.274
+ aug-DZVP    : GW gap   9.574   DFT LUMO  -0.322
+ aug-TZVP    : GW gap   9.641   DFT LUMO  -0.360
+
+Molecule: HYXBUR10  Formula: H5C2N3O3
+ aug-cc-pVDZ : GW gap  10.300   DFT LUMO  -0.660
+ aug-cc-pVTZ : GW gap  10.543   DFT LUMO  -0.658
+ aug-cc-pVQZ : GW gap  10.705   DFT LUMO  -0.660
+ aug-cc-pV5Z : GW gap  10.733   DFT LUMO  -0.664
+ aug-SZVSR   : GW gap  10.068   DFT LUMO  -0.236
+ aug-SZV     : GW gap  11.370   DFT LUMO  -1.037
+ aug-DZVP    : GW gap  10.945   DFT LUMO  -0.605
+ aug-TZVP    : GW gap  10.713   DFT LUMO  -0.638
+
+Molecule: IKANUE  Formula: H5C5N3O3
+ aug-cc-pVDZ : GW gap   8.583   DFT LUMO  -2.332
+ aug-cc-pVTZ : GW gap   8.499   DFT LUMO  -2.324
+ aug-cc-pVQZ : GW gap   8.451   DFT LUMO  -2.327
+ aug-cc-pV5Z : GW gap   8.416   DFT LUMO  -2.329
+ aug-SZVSR   : GW gap   9.132   DFT LUMO  -1.249
+ aug-SZV     : GW gap   8.150   DFT LUMO  -3.385
+ aug-DZVP    : GW gap   8.471   DFT LUMO  -2.529
+ aug-TZVP    : GW gap   8.440   DFT LUMO  -2.328
+
+Molecule: IQUJEK  Formula: H10C5N4O1
+ aug-cc-pVDZ : GW gap  10.290   DFT LUMO  -0.810
+ aug-cc-pVTZ : GW gap  10.623   DFT LUMO  -0.826
+ aug-cc-pVQZ : GW gap  10.695   DFT LUMO  -0.831
+ aug-cc-pV5Z : GW gap  10.837   DFT LUMO  -0.833
+ aug-SZVSR   : GW gap  10.401   DFT LUMO  -0.564
+ aug-SZV     : GW gap  10.836   DFT LUMO  -1.414
+ aug-DZVP    : GW gap  10.751   DFT LUMO  -0.932
+ aug-TZVP    : GW gap  10.725   DFT LUMO  -0.815
+
+Molecule: JAWLEY  Formula: H7C8N1O1Cl2
+ aug-cc-pVDZ : GW gap   8.112   DFT LUMO  -1.063
+ aug-cc-pVTZ : GW gap   8.405   DFT LUMO  -1.070
+ aug-cc-pVQZ : GW gap   8.554   DFT LUMO  -1.076
+ aug-cc-pV5Z : GW gap   8.606   DFT LUMO  -1.080
+ aug-SZVSR   : GW gap   8.689   DFT LUMO  -0.887
+ aug-SZV     : GW gap   8.731   DFT LUMO  -1.266
+ aug-DZVP    : GW gap   8.520   DFT LUMO  -1.128
+ aug-TZVP    : GW gap   8.527   DFT LUMO  -1.082
+
+Molecule: JAYDUI  Formula: H8C3
+ aug-cc-pVDZ : GW gap  12.559   DFT LUMO   0.030
+ aug-cc-pVTZ : GW gap  12.751   DFT LUMO  -0.010
+ aug-cc-pVQZ : GW gap  12.816   DFT LUMO  -0.032
+ aug-cc-pV5Z : GW gap  12.802   DFT LUMO  -0.051
+ aug-SZVSR   : GW gap  13.075   DFT LUMO   0.464
+ aug-SZV     : GW gap  13.031   DFT LUMO   0.405
+ aug-DZVP    : GW gap  13.015   DFT LUMO   0.160
+ aug-TZVP    : GW gap  12.808   DFT LUMO   0.021
+
+Molecule: JEVVEM  Formula: H7C6N2Cl1
+ aug-cc-pVDZ : GW gap   8.152   DFT LUMO  -0.796
+ aug-cc-pVTZ : GW gap   8.421   DFT LUMO  -0.816
+ aug-cc-pVQZ : GW gap   8.550   DFT LUMO  -0.822
+ aug-cc-pV5Z : GW gap   8.581   DFT LUMO  -0.825
+ aug-SZVSR   : GW gap   8.604   DFT LUMO  -0.657
+ aug-SZV     : GW gap   8.710   DFT LUMO  -0.854
+ aug-DZVP    : GW gap   8.747   DFT LUMO  -0.865
+ aug-TZVP    : GW gap   8.521   DFT LUMO  -0.816
+
+Molecule: JIBHAD  Formula: H8C7N3S1Cl1
+ aug-cc-pVDZ : GW gap   7.694   DFT LUMO  -1.034
+ aug-cc-pVTZ : GW gap   7.938   DFT LUMO  -1.043
+ aug-cc-pVQZ : GW gap   8.101   DFT LUMO  -1.049
+ aug-cc-pV5Z : GW gap   8.143   DFT LUMO  -1.052
+ aug-SZVSR   : GW gap   8.136   DFT LUMO  -0.897
+ aug-SZV     : GW gap   8.143   DFT LUMO  -1.073
+ aug-DZVP    : GW gap   8.064   DFT LUMO  -1.026
+ aug-TZVP    : GW gap   8.073   DFT LUMO  -1.046
+
+Molecule: JUPPAL  Formula: H5C3N3O4S1
+ aug-cc-pVDZ : GW gap   9.785   DFT LUMO  -1.209
+ aug-cc-pVTZ : GW gap  10.152   DFT LUMO  -1.191
+ aug-cc-pVQZ : GW gap  10.362   DFT LUMO  -1.191
+ aug-cc-pV5Z : GW gap  10.403   DFT LUMO  -1.186
+ aug-SZVSR   : GW gap   9.958   DFT LUMO  -0.406
+ aug-SZV     : GW gap  10.780   DFT LUMO  -1.940
+ aug-DZVP    : GW gap  10.408   DFT LUMO  -1.306
+ aug-TZVP    : GW gap  10.290   DFT LUMO  -1.192
+
+Molecule: JUTXUR  Formula: H11C6N1O2
+ aug-cc-pVDZ : GW gap   8.693   DFT LUMO  -0.242
+ aug-cc-pVTZ : GW gap   9.053   DFT LUMO  -0.267
+ aug-cc-pVQZ : GW gap   9.213   DFT LUMO  -0.278
+ aug-cc-pV5Z : GW gap   9.275   DFT LUMO  -0.293
+ aug-SZVSR   : GW gap   8.691   DFT LUMO   0.210
+ aug-SZV     : GW gap   9.520   DFT LUMO  -0.224
+ aug-DZVP    : GW gap   9.299   DFT LUMO  -0.197
+ aug-TZVP    : GW gap   9.161   DFT LUMO  -0.263
+
+Molecule: KAXMAY  Formula: H3C5N1S5Cl2
+ aug-cc-pVDZ : GW gap   7.646   DFT LUMO  -1.896
+ aug-cc-pVTZ : GW gap   7.652   DFT LUMO  -1.869
+ aug-cc-pVQZ : GW gap   7.608   DFT LUMO  -1.875
+ aug-cc-pV5Z : GW gap   7.588   DFT LUMO  -1.885
+ aug-SZVSR   : GW gap   7.625   DFT LUMO  -1.971
+ aug-SZV     : GW gap   7.594   DFT LUMO  -2.033
+ aug-DZVP    : GW gap   7.618   DFT LUMO  -1.861
+ aug-TZVP    : GW gap   7.527   DFT LUMO  -1.879
+
+Molecule: KEMZIL01  Formula: H2C1O1
+ aug-cc-pVDZ : GW gap  11.072   DFT LUMO  -1.466
+ aug-cc-pVTZ : GW gap  11.362   DFT LUMO  -1.472
+ aug-cc-pVQZ : GW gap  11.492   DFT LUMO  -1.475
+ aug-cc-pV5Z : GW gap  11.525   DFT LUMO  -1.474
+ aug-SZVSR   : GW gap  11.589   DFT LUMO  -0.724
+ aug-SZV     : GW gap  12.045   DFT LUMO  -1.761
+ aug-DZVP    : GW gap  11.717   DFT LUMO  -1.593
+ aug-TZVP    : GW gap  11.844   DFT LUMO  -1.443
+
+Molecule: LALYIG  Formula: H9C7N3O1
+ aug-cc-pVDZ : GW gap   8.605   DFT LUMO  -0.605
+ aug-cc-pVTZ : GW gap   8.828   DFT LUMO  -0.622
+ aug-cc-pVQZ : GW gap   8.897   DFT LUMO  -0.626
+ aug-cc-pV5Z : GW gap   8.895   DFT LUMO  -0.626
+ aug-SZVSR   : GW gap   8.716   DFT LUMO  -0.366
+ aug-SZV     : GW gap   8.880   DFT LUMO  -0.566
+ aug-DZVP    : GW gap   8.869   DFT LUMO  -0.634
+ aug-TZVP    : GW gap   9.020   DFT LUMO  -0.622
+
+Molecule: LAPCOW  Formula: H4C6N2O7
+ aug-cc-pVDZ : GW gap   6.953   DFT LUMO  -3.650
+ aug-cc-pVTZ : GW gap   6.939   DFT LUMO  -3.642
+ aug-cc-pVQZ : GW gap   6.924   DFT LUMO  -3.644
+ aug-cc-pV5Z : GW gap   6.910   DFT LUMO  -3.646
+ aug-SZVSR   : GW gap   7.298   DFT LUMO  -2.338
+ aug-SZV     : GW gap   6.630   DFT LUMO  -4.756
+ aug-DZVP    : GW gap   6.892   DFT LUMO  -3.918
+ aug-TZVP    : GW gap   6.922   DFT LUMO  -3.655
+
+Molecule: MACLEI  Formula: H9C6N3O2
+ aug-cc-pVDZ : GW gap   8.502   DFT LUMO  -0.163
+ aug-cc-pVTZ : GW gap   8.780   DFT LUMO  -0.185
+ aug-cc-pVQZ : GW gap   8.902   DFT LUMO  -0.195
+ aug-cc-pV5Z : GW gap   8.931   DFT LUMO  -0.207
+ aug-SZVSR   : GW gap   9.184   DFT LUMO   0.304
+ aug-SZV     : GW gap   9.231   DFT LUMO  -0.334
+ aug-DZVP    : GW gap   9.196   DFT LUMO  -0.122
+ aug-TZVP    : GW gap   8.950   DFT LUMO  -0.149
+
+Molecule: MEWZIZ  Formula: H3C3O3F3
+ aug-cc-pVDZ : GW gap  11.611   DFT LUMO  -1.110
+ aug-cc-pVTZ : GW gap  11.942   DFT LUMO  -1.109
+ aug-cc-pVQZ : GW gap  12.129   DFT LUMO  -1.114
+ aug-cc-pV5Z : GW gap  12.190   DFT LUMO  -1.115
+ aug-SZVSR   : GW gap  11.910   DFT LUMO  -0.434
+ aug-SZV     : GW gap  12.689   DFT LUMO  -1.940
+ aug-DZVP    : GW gap  12.225   DFT LUMO  -1.284
+ aug-TZVP    : GW gap  12.240   DFT LUMO  -1.151
+
+Molecule: MIYFEF  Formula: H7C2N1O2S1
+ aug-cc-pVDZ : GW gap  10.321   DFT LUMO  -0.449
+ aug-cc-pVTZ : GW gap  10.671   DFT LUMO  -0.465
+ aug-cc-pVQZ : GW gap  10.817   DFT LUMO  -0.471
+ aug-cc-pV5Z : GW gap  10.863   DFT LUMO  -0.479
+ aug-SZVSR   : GW gap  10.318   DFT LUMO  -0.010
+ aug-SZV     : GW gap  11.034   DFT LUMO  -0.284
+ aug-DZVP    : GW gap  10.889   DFT LUMO  -0.406
+ aug-TZVP    : GW gap  10.785   DFT LUMO  -0.441
+
+Molecule: MUPVUP  Formula: H6C3N1Cl3
+ aug-cc-pVDZ : GW gap   9.627   DFT LUMO  -0.637
+ aug-cc-pVTZ : GW gap   9.898   DFT LUMO  -0.644
+ aug-cc-pVQZ : GW gap  10.106   DFT LUMO  -0.648
+ aug-cc-pV5Z : GW gap  10.130   DFT LUMO  -0.660
+ aug-SZVSR   : GW gap  10.305   DFT LUMO  -0.506
+ aug-SZV     : GW gap  10.469   DFT LUMO  -0.532
+ aug-DZVP    : GW gap  10.115   DFT LUMO  -0.631
+ aug-TZVP    : GW gap  10.053   DFT LUMO  -0.620
+
+Molecule: MUYHIY  Formula: H5C4N3O2
+ aug-cc-pVDZ : GW gap   8.728   DFT LUMO  -0.723
+ aug-cc-pVTZ : GW gap   9.064   DFT LUMO  -0.739
+ aug-cc-pVQZ : GW gap   9.226   DFT LUMO  -0.749
+ aug-cc-pV5Z : GW gap   9.254   DFT LUMO  -0.752
+ aug-SZVSR   : GW gap   9.002   DFT LUMO  -0.059
+ aug-SZV     : GW gap   9.775   DFT LUMO  -1.059
+ aug-DZVP    : GW gap   9.262   DFT LUMO  -0.834
+ aug-TZVP    : GW gap   9.166   DFT LUMO  -0.748
+
+Molecule: NEFFOT  Formula: H6C6N4O4
+ aug-cc-pVDZ : GW gap   7.656   DFT LUMO  -3.475
+ aug-cc-pVTZ : GW gap   7.612   DFT LUMO  -3.488
+ aug-cc-pVQZ : GW gap   7.529   DFT LUMO  -3.492
+ aug-cc-pV5Z : GW gap   7.598   DFT LUMO  -3.494
+ aug-SZVSR   : GW gap   7.753   DFT LUMO  -3.145
+ aug-SZV     : GW gap   7.881   DFT LUMO  -4.256
+ aug-DZVP    : GW gap   7.675   DFT LUMO  -3.673
+ aug-TZVP    : GW gap   7.724   DFT LUMO  -3.490
+
+Molecule: OPUSEY  Formula: H4C5O4
+ aug-cc-pVDZ : GW gap  10.884   DFT LUMO  -1.673
+ aug-cc-pVTZ : GW gap  11.206   DFT LUMO  -1.611
+ aug-cc-pVQZ : GW gap  11.245   DFT LUMO  -1.612
+ aug-cc-pV5Z : GW gap  11.249   DFT LUMO  -1.606
+ aug-SZVSR   : GW gap  11.128   DFT LUMO  -0.436
+ aug-SZV     : GW gap  11.110   DFT LUMO  -2.869
+ aug-DZVP    : GW gap  11.346   DFT LUMO  -1.770
+ aug-TZVP    : GW gap  11.146   DFT LUMO  -1.656
+
+Molecule: OQAWOT  Formula: H6C5N1O1F3
+ aug-cc-pVDZ : GW gap   9.745   DFT LUMO  -0.360
+ aug-cc-pVTZ : GW gap  10.088   DFT LUMO  -0.376
+ aug-cc-pVQZ : GW gap  10.250   DFT LUMO  -0.385
+ aug-cc-pV5Z : GW gap  10.328   DFT LUMO  -0.392
+ aug-SZVSR   : GW gap  10.040   DFT LUMO  -0.019
+ aug-SZV     : GW gap  10.569   DFT LUMO  -0.299
+ aug-DZVP    : GW gap  10.325   DFT LUMO  -0.331
+ aug-TZVP    : GW gap  10.263   DFT LUMO  -0.373
+
+Molecule: PINPAD  Formula: H10C4O2S2
+ aug-cc-pVDZ : GW gap   8.957   DFT LUMO  -0.365
+ aug-cc-pVTZ : GW gap   9.186   DFT LUMO  -0.382
+ aug-cc-pVQZ : GW gap   9.362   DFT LUMO  -0.391
+ aug-cc-pV5Z : GW gap   9.404   DFT LUMO  -0.398
+ aug-SZVSR   : GW gap   9.467   DFT LUMO   0.085
+ aug-SZV     : GW gap   9.559   DFT LUMO  -0.208
+ aug-DZVP    : GW gap   9.337   DFT LUMO  -0.322
+ aug-TZVP    : GW gap   9.377   DFT LUMO  -0.360
+
+Molecule: PPOSAM  Formula: H9C6N2O2P1
+ aug-cc-pVDZ : GW gap   8.870   DFT LUMO  -0.465
+ aug-cc-pVTZ : GW gap   9.154   DFT LUMO  -0.486
+ aug-cc-pVQZ : GW gap   9.287   DFT LUMO  -0.490
+ aug-cc-pV5Z : GW gap   9.300   DFT LUMO  -0.489
+ aug-SZVSR   : GW gap   9.130   DFT LUMO  -0.218
+ aug-SZV     : GW gap   9.356   DFT LUMO  -0.437
+ aug-DZVP    : GW gap   9.381   DFT LUMO  -0.505
+ aug-TZVP    : GW gap   9.267   DFT LUMO  -0.488
+
+Molecule: QEPJUS  Formula: H8C8N1O2Cl1
+ aug-cc-pVDZ : GW gap   7.886   DFT LUMO  -0.853
+ aug-cc-pVTZ : GW gap   8.185   DFT LUMO  -0.864
+ aug-cc-pVQZ : GW gap   8.345   DFT LUMO  -0.870
+ aug-cc-pV5Z : GW gap   8.389   DFT LUMO  -0.873
+ aug-SZVSR   : GW gap   8.125   DFT LUMO  -0.528
+ aug-SZV     : GW gap   8.528   DFT LUMO  -1.012
+ aug-DZVP    : GW gap   8.390   DFT LUMO  -0.914
+ aug-TZVP    : GW gap   8.301   DFT LUMO  -0.875
+
+Molecule: QOWNUM  Formula: H3C3O2S1Cl3
+ aug-cc-pVDZ : GW gap   9.741   DFT LUMO  -1.648
+ aug-cc-pVTZ : GW gap   9.742   DFT LUMO  -1.660
+ aug-cc-pVQZ : GW gap   9.845   DFT LUMO  -1.678
+ aug-cc-pV5Z : GW gap   9.712   DFT LUMO  -1.705
+ aug-SZVSR   : GW gap   9.309   DFT LUMO  -2.053
+ aug-SZV     : GW gap   9.534   DFT LUMO  -2.230
+ aug-DZVP    : GW gap   9.620   DFT LUMO  -1.767
+ aug-TZVP    : GW gap   9.589   DFT LUMO  -1.697
+
+Molecule: SBZSAM  Formula: H5C6N1O3S2
+ aug-cc-pVDZ : GW gap   8.384   DFT LUMO  -3.501
+ aug-cc-pVTZ : GW gap   8.315   DFT LUMO  -3.510
+ aug-cc-pVQZ : GW gap   8.235   DFT LUMO  -3.505
+ aug-cc-pV5Z : GW gap   8.196   DFT LUMO  -3.496
+ aug-SZVSR   : GW gap   8.905   DFT LUMO  -2.590
+ aug-SZV     : GW gap   8.061   DFT LUMO  -4.087
+ aug-DZVP    : GW gap   8.257   DFT LUMO  -3.653
+ aug-TZVP    : GW gap   8.186   DFT LUMO  -3.501
+
+Molecule: TOBBIV  Formula: H2C3O1F5Cl1
+ aug-cc-pVDZ : GW gap  12.208   DFT LUMO  -0.338
+ aug-cc-pVTZ : GW gap  12.344   DFT LUMO  -0.359
+ aug-cc-pVQZ : GW gap  12.529   DFT LUMO  -0.380
+ aug-cc-pV5Z : GW gap  12.552   DFT LUMO  -0.404
+ aug-SZVSR   : GW gap  13.806   DFT LUMO  -0.906
+ aug-SZV     : GW gap  13.872   DFT LUMO  -1.069
+ aug-DZVP    : GW gap  12.937   DFT LUMO  -0.428
+ aug-TZVP    : GW gap  12.844   DFT LUMO  -0.398
+
+Molecule: TRDMPP01  Formula: H10C6N2O2
+ aug-cc-pVDZ : GW gap   9.668   DFT LUMO  -0.406
+ aug-cc-pVTZ : GW gap   9.980   DFT LUMO  -0.417
+ aug-cc-pVQZ : GW gap  10.130   DFT LUMO  -0.424
+ aug-cc-pV5Z : GW gap  10.182   DFT LUMO  -0.431
+ aug-SZVSR   : GW gap   9.675   DFT LUMO   0.013
+ aug-SZV     : GW gap  10.632   DFT LUMO  -0.513
+ aug-DZVP    : GW gap  10.205   DFT LUMO  -0.380
+ aug-TZVP    : GW gap  10.085   DFT LUMO  -0.410
+
+Molecule: TRIRED  Formula: H4C3O3
+ aug-cc-pVDZ : GW gap   8.740   DFT LUMO  -1.425
+ aug-cc-pVTZ : GW gap   9.064   DFT LUMO  -1.433
+ aug-cc-pVQZ : GW gap   9.240   DFT LUMO  -1.437
+ aug-cc-pV5Z : GW gap   9.291   DFT LUMO  -1.437
+ aug-SZVSR   : GW gap   8.461   DFT LUMO  -0.491
+ aug-SZV     : GW gap   9.150   DFT LUMO  -1.745
+ aug-DZVP    : GW gap   9.135   DFT LUMO  -1.544
+ aug-TZVP    : GW gap   9.181   DFT LUMO  -1.448
+
+Molecule: VABHUB  Formula: N3F3S3
+ aug-cc-pVDZ : GW gap  10.559   DFT LUMO  -2.241
+ aug-cc-pVTZ : GW gap  10.532   DFT LUMO  -2.234
+ aug-cc-pVQZ : GW gap  10.504   DFT LUMO  -2.239
+ aug-cc-pV5Z : GW gap  10.518   DFT LUMO  -2.253
+ aug-SZVSR   : GW gap  10.285   DFT LUMO  -2.799
+ aug-SZV     : GW gap  10.573   DFT LUMO  -3.026
+ aug-DZVP    : GW gap  10.716   DFT LUMO  -2.395
+ aug-TZVP    : GW gap  10.553   DFT LUMO  -2.283
+
+Molecule: VEVCEF  Formula: H5C2N2O2Cl1
+ aug-cc-pVDZ : GW gap   9.618   DFT LUMO  -1.478
+ aug-cc-pVTZ : GW gap   9.904   DFT LUMO  -1.474
+ aug-cc-pVQZ : GW gap  10.078   DFT LUMO  -1.483
+ aug-cc-pV5Z : GW gap  10.073   DFT LUMO  -1.497
+ aug-SZVSR   : GW gap   9.832   DFT LUMO  -1.383
+ aug-SZV     : GW gap  10.099   DFT LUMO  -2.224
+ aug-DZVP    : GW gap  10.156   DFT LUMO  -1.568
+ aug-TZVP    : GW gap  10.011   DFT LUMO  -1.489
+
+Molecule: VIBCIU  Formula: H10C6N2O2
+ aug-cc-pVDZ : GW gap   8.463   DFT LUMO  -0.752
+ aug-cc-pVTZ : GW gap   8.722   DFT LUMO  -0.767
+ aug-cc-pVQZ : GW gap   8.836   DFT LUMO  -0.771
+ aug-cc-pV5Z : GW gap   8.898   DFT LUMO  -0.773
+ aug-SZVSR   : GW gap   8.648   DFT LUMO  -0.383
+ aug-SZV     : GW gap   8.880   DFT LUMO  -0.912
+ aug-DZVP    : GW gap   8.813   DFT LUMO  -0.798
+ aug-TZVP    : GW gap   8.827   DFT LUMO  -0.769
+
+Molecule: VUPTAC01  Formula: H5C2N5
+ aug-cc-pVDZ : GW gap   8.561   DFT LUMO  -0.811
+ aug-cc-pVTZ : GW gap   8.894   DFT LUMO  -0.813
+ aug-cc-pVQZ : GW gap   9.048   DFT LUMO  -0.815
+ aug-cc-pV5Z : GW gap   9.100   DFT LUMO  -0.820
+ aug-SZVSR   : GW gap   8.754   DFT LUMO  -0.605
+ aug-SZV     : GW gap   9.213   DFT LUMO  -0.642
+ aug-DZVP    : GW gap   8.979   DFT LUMO  -0.744
+ aug-TZVP    : GW gap   8.971   DFT LUMO  -0.794
+
+Molecule: VUZHAA  Formula: H8C6N3O2F1
+ aug-cc-pVDZ : GW gap   8.592   DFT LUMO  -0.455
+ aug-cc-pVTZ : GW gap   8.895   DFT LUMO  -0.469
+ aug-cc-pVQZ : GW gap   9.014   DFT LUMO  -0.477
+ aug-cc-pV5Z : GW gap   9.072   DFT LUMO  -0.487
+ aug-SZVSR   : GW gap   9.001   DFT LUMO  -0.015
+ aug-SZV     : GW gap   9.383   DFT LUMO  -0.681
+ aug-DZVP    : GW gap   9.058   DFT LUMO  -0.407
+ aug-TZVP    : GW gap   9.052   DFT LUMO  -0.442
+
+Molecule: WAQBOG  Formula: H5C3N5O1
+ aug-cc-pVDZ : GW gap   8.922   DFT LUMO  -0.994
+ aug-cc-pVTZ : GW gap   9.213   DFT LUMO  -0.999
+ aug-cc-pVQZ : GW gap   9.358   DFT LUMO  -1.005
+ aug-cc-pV5Z : GW gap   9.403   DFT LUMO  -1.007
+ aug-SZVSR   : GW gap   9.677   DFT LUMO  -0.600
+ aug-SZV     : GW gap   9.553   DFT LUMO  -1.413
+ aug-DZVP    : GW gap   9.284   DFT LUMO  -1.072
+ aug-TZVP    : GW gap   9.272   DFT LUMO  -1.002
+
+Molecule: WEHYAK  Formula: H5C4N1O3
+ aug-cc-pVDZ : GW gap  10.422   DFT LUMO  -0.629
+ aug-cc-pVTZ : GW gap  10.728   DFT LUMO  -0.634
+ aug-cc-pVQZ : GW gap  10.861   DFT LUMO  -0.639
+ aug-cc-pV5Z : GW gap  10.917   DFT LUMO  -0.641
+ aug-SZVSR   : GW gap   9.999   DFT LUMO   0.035
+ aug-SZV     : GW gap  10.784   DFT LUMO  -1.139
+ aug-DZVP    : GW gap  10.819   DFT LUMO  -0.711
+ aug-TZVP    : GW gap  10.872   DFT LUMO  -0.638
+
+Molecule: XETJIQ  Formula: H8C6O3
+ aug-cc-pVDZ : GW gap   9.773   DFT LUMO  -0.863
+ aug-cc-pVTZ : GW gap  10.095   DFT LUMO  -0.870
+ aug-cc-pVQZ : GW gap  10.233   DFT LUMO  -0.874
+ aug-cc-pV5Z : GW gap  10.289   DFT LUMO  -0.874
+ aug-SZVSR   : GW gap   9.617   DFT LUMO  -0.199
+ aug-SZV     : GW gap  10.217   DFT LUMO  -1.222
+ aug-DZVP    : GW gap  10.053   DFT LUMO  -0.955
+ aug-TZVP    : GW gap  10.173   DFT LUMO  -0.880
+
+Molecule: YASSIV  Formula: H9C5N3O2
+ aug-cc-pVDZ : GW gap   8.804   DFT LUMO  -0.193
+ aug-cc-pVTZ : GW gap   9.104   DFT LUMO  -0.214
+ aug-cc-pVQZ : GW gap   9.249   DFT LUMO  -0.228
+ aug-cc-pV5Z : GW gap   9.299   DFT LUMO  -0.237
+ aug-SZVSR   : GW gap   8.935   DFT LUMO   0.227
+ aug-SZV     : GW gap  10.112   DFT LUMO  -0.311
+ aug-DZVP    : GW gap   9.502   DFT LUMO  -0.108
+ aug-TZVP    : GW gap   9.251   DFT LUMO  -0.183
+
+Molecule: YEBHAQ  Formula: H9C4N1O1S1
+ aug-cc-pVDZ : GW gap   9.119   DFT LUMO  -0.238
+ aug-cc-pVTZ : GW gap   9.347   DFT LUMO  -0.260
+ aug-cc-pVQZ : GW gap   9.523   DFT LUMO  -0.266
+ aug-cc-pV5Z : GW gap   9.567   DFT LUMO  -0.280
+ aug-SZVSR   : GW gap   9.864   DFT LUMO   0.207
+ aug-SZV     : GW gap  10.285   DFT LUMO  -0.024
+ aug-DZVP    : GW gap   9.631   DFT LUMO  -0.113
+ aug-TZVP    : GW gap   9.641   DFT LUMO  -0.203
+
+Molecule: YEFXAJ  Formula: H9C5N5S1
+ aug-cc-pVDZ : GW gap   7.522   DFT LUMO  -0.580
+ aug-cc-pVTZ : GW gap   7.815   DFT LUMO  -0.583
+ aug-cc-pVQZ : GW gap   7.980   DFT LUMO  -0.586
+ aug-cc-pV5Z : GW gap   8.023   DFT LUMO  -0.592
+ aug-SZVSR   : GW gap   7.833   DFT LUMO  -0.318
+ aug-SZV     : GW gap   8.028   DFT LUMO  -0.342
+ aug-DZVP    : GW gap   7.891   DFT LUMO  -0.486
+ aug-TZVP    : GW gap   7.931   DFT LUMO  -0.564
+
+Molecule: YOYZIV  Formula: H2C4N4
+ aug-cc-pVDZ : GW gap   9.710   DFT LUMO  -3.749
+ aug-cc-pVTZ : GW gap   9.631   DFT LUMO  -3.773
+ aug-cc-pVQZ : GW gap   9.571   DFT LUMO  -3.779
+ aug-cc-pV5Z : GW gap   9.623   DFT LUMO  -3.778
+ aug-SZVSR   : GW gap   9.926   DFT LUMO  -3.558
+ aug-SZV     : GW gap  10.042   DFT LUMO  -4.049
+ aug-DZVP    : GW gap   9.731   DFT LUMO  -3.938
+ aug-TZVP    : GW gap   9.741   DFT LUMO  -3.756
+
+Molecule: ZIKWIZ  Formula: H11C6N1S2
+ aug-cc-pVDZ : GW gap   7.816   DFT LUMO  -0.829
+ aug-cc-pVTZ : GW gap   8.005   DFT LUMO  -0.866
+ aug-cc-pVQZ : GW gap   8.183   DFT LUMO  -0.878
+ aug-cc-pV5Z : GW gap   8.233   DFT LUMO  -0.892
+ aug-SZVSR   : GW gap   8.443   DFT LUMO  -0.735
+ aug-SZV     : GW gap   8.441   DFT LUMO  -0.854
+ aug-DZVP    : GW gap   8.173   DFT LUMO  -0.835
+ aug-TZVP    : GW gap   8.199   DFT LUMO  -0.880
+
+Molecule: ZOFROB  Formula: H5C8N1O1Cl4
+ aug-cc-pVDZ : GW gap   8.812   DFT LUMO  -2.087
+ aug-cc-pVTZ : GW gap   8.836   DFT LUMO  -2.081
+ aug-cc-pVQZ : GW gap   8.856   DFT LUMO  -2.086
+ aug-cc-pV5Z : GW gap   8.808   DFT LUMO  -2.094
+ aug-SZVSR   : GW gap   8.620   DFT LUMO  -2.273
+ aug-SZV     : GW gap   8.608   DFT LUMO  -2.600
+ aug-DZVP    : GW gap   8.795   DFT LUMO  -2.151
+ aug-TZVP    : GW gap   8.729   DFT LUMO  -2.091
+
+Molecule: alcl  Formula: N/A
+ aug-cc-pVDZ : GW gap   9.107   DFT LUMO  -1.727
+ aug-cc-pVTZ : GW gap   9.064   DFT LUMO  -1.702
+ aug-cc-pVQZ : GW gap   9.071   DFT LUMO  -1.699
+ aug-cc-pV5Z : GW gap   9.110   DFT LUMO  -1.701
+ aug-SZVSR   : GW gap   9.969   DFT LUMO  -1.497
+ aug-SZV     : GW gap   9.436   DFT LUMO  -1.900
+ aug-DZVP    : GW gap   9.312   DFT LUMO  -1.671
+ aug-TZVP    : GW gap   9.363   DFT LUMO  -1.640
+
+Molecule: alcl3  Formula: N/A
+ aug-cc-pVDZ : GW gap  11.668   DFT LUMO  -1.558
+ aug-cc-pVTZ : GW gap  11.706   DFT LUMO  -1.499
+ aug-cc-pVQZ : GW gap  11.838   DFT LUMO  -1.494
+ aug-cc-pV5Z : GW gap  11.825   DFT LUMO  -1.497
+ aug-SZVSR   : GW gap  12.293   DFT LUMO  -1.665
+ aug-SZV     : GW gap  12.146   DFT LUMO  -1.716
+ aug-DZVP    : GW gap  11.904   DFT LUMO  -1.535
+ aug-TZVP    : GW gap  11.982   DFT LUMO  -1.325
+
+Molecule: b2h6  Formula: H6B2
+ aug-cc-pVDZ : GW gap  12.757   DFT LUMO  -0.985
+ aug-cc-pVTZ : GW gap  12.941   DFT LUMO  -0.992
+ aug-cc-pVQZ : GW gap  12.982   DFT LUMO  -0.992
+ aug-cc-pV5Z : GW gap  12.938   DFT LUMO  -0.994
+ aug-SZVSR   : GW gap  13.126   DFT LUMO  -0.945
+ aug-SZV     : GW gap  13.153   DFT LUMO  -0.929
+ aug-DZVP    : GW gap  13.272   DFT LUMO  -0.994
+ aug-TZVP    : GW gap  13.066   DFT LUMO  -0.999
+
+Molecule: becl2  Formula: N/A
+ aug-cc-pVDZ : GW gap  12.172   DFT LUMO  -0.691
+ aug-cc-pVTZ : GW gap  12.284   DFT LUMO  -0.670
+ aug-cc-pVQZ : GW gap  12.493   DFT LUMO  -0.674
+ aug-cc-pV5Z : GW gap  12.561   DFT LUMO  -0.674
+ aug-SZVSR   : GW gap  13.649   DFT LUMO  -0.431
+ aug-SZV     : GW gap  13.734   DFT LUMO  -0.431
+ aug-DZVP    : GW gap  12.708   DFT LUMO  -0.598
+ aug-TZVP    : GW gap  12.764   DFT LUMO  -0.507
+
+Molecule: beo  Formula: N/A
+ aug-cc-pVDZ : GW gap   7.218   DFT LUMO  -4.022
+ aug-cc-pVTZ : GW gap   7.380   DFT LUMO  -3.966
+ aug-cc-pVQZ : GW gap   7.509   DFT LUMO  -3.969
+ aug-cc-pV5Z : GW gap   7.583   DFT LUMO  -3.963
+ aug-SZVSR   : GW gap   7.248   DFT LUMO  -3.527
+ aug-SZV     : GW gap   7.323   DFT LUMO  -4.176
+ aug-DZVP    : GW gap   7.266   DFT LUMO  -3.997
+ aug-TZVP    : GW gap   7.504   DFT LUMO  -3.937
+
+Molecule: bf  Formula: B1F1
+ aug-cc-pVDZ : GW gap  11.827   DFT LUMO  -1.153
+ aug-cc-pVTZ : GW gap  11.735   DFT LUMO  -1.128
+ aug-cc-pVQZ : GW gap  11.605   DFT LUMO  -1.125
+ aug-cc-pV5Z : GW gap  11.725   DFT LUMO  -1.129
+ aug-SZVSR   : GW gap  13.447   DFT LUMO  -0.920
+ aug-SZV     : GW gap  13.435   DFT LUMO  -0.920
+ aug-DZVP    : GW gap  12.665   DFT LUMO  -1.081
+ aug-TZVP    : GW gap  12.198   DFT LUMO  -1.114
+
+Molecule: bf3  Formula: B1F3
+ aug-cc-pVDZ : GW gap  16.148   DFT LUMO  -0.161
+ aug-cc-pVTZ : GW gap  16.508   DFT LUMO  -0.156
+ aug-cc-pVQZ : GW gap  16.712   DFT LUMO  -0.179
+ aug-cc-pV5Z : GW gap  16.663   DFT LUMO  -0.197
+ aug-SZVSR   : GW gap  18.906   DFT LUMO  -0.262
+ aug-SZV     : GW gap  18.896   DFT LUMO  -0.262
+ aug-DZVP    : GW gap  18.723   DFT LUMO   0.586
+ aug-TZVP    : GW gap  16.853   DFT LUMO  -0.039
+
+Molecule: bh  Formula: H1B1
+ aug-cc-pVDZ : GW gap   9.439   DFT LUMO  -2.372
+ aug-cc-pVTZ : GW gap   9.345   DFT LUMO  -2.368
+ aug-cc-pVQZ : GW gap   9.292   DFT LUMO  -2.366
+ aug-cc-pV5Z : GW gap   9.378   DFT LUMO  -2.369
+ aug-SZVSR   : GW gap   9.810   DFT LUMO  -2.181
+ aug-SZV     : GW gap   9.809   DFT LUMO  -2.197
+ aug-DZVP    : GW gap   9.710   DFT LUMO  -2.357
+ aug-TZVP    : GW gap   9.562   DFT LUMO  -2.355
+
+Molecule: bhf2  Formula: H1B1F2
+ aug-cc-pVDZ : GW gap  15.122   DFT LUMO  -0.522
+ aug-cc-pVTZ : GW gap  15.075   DFT LUMO  -0.485
+ aug-cc-pVQZ : GW gap  15.125   DFT LUMO  -0.485
+ aug-cc-pV5Z : GW gap  15.093   DFT LUMO  -0.490
+ aug-SZVSR   : GW gap  16.090   DFT LUMO  -1.048
+ aug-SZV     : GW gap  16.064   DFT LUMO  -1.046
+ aug-DZVP    : GW gap  15.884   DFT LUMO  -0.577
+ aug-TZVP    : GW gap  15.622   DFT LUMO  -0.501
+
+Molecule: bn  Formula: B1N1
+ aug-cc-pVDZ : GW gap   7.692   DFT LUMO  -6.395
+ aug-cc-pVTZ : GW gap   7.772   DFT LUMO  -6.370
+ aug-cc-pVQZ : GW gap   7.829   DFT LUMO  -6.369
+ aug-cc-pV5Z : GW gap   7.824   DFT LUMO  -6.378
+ aug-SZVSR   : GW gap   8.117   DFT LUMO  -6.142
+ aug-SZV     : GW gap   8.148   DFT LUMO  -6.400
+ aug-DZVP    : GW gap   7.726   DFT LUMO  -6.470
+ aug-TZVP    : GW gap   7.757   DFT LUMO  -6.395
+
+Molecule: bn3pi  Formula: B1N1
+ aug-cc-pVDZ : GW gap   7.493   DFT LUMO  -6.436
+ aug-cc-pVTZ : GW gap   7.567   DFT LUMO  -6.412
+ aug-cc-pVQZ : GW gap   7.623   DFT LUMO  -6.410
+ aug-cc-pV5Z : GW gap   7.613   DFT LUMO  -6.416
+ aug-SZVSR   : GW gap   7.890   DFT LUMO  -6.174
+ aug-SZV     : GW gap   7.930   DFT LUMO  -6.454
+ aug-DZVP    : GW gap   7.529   DFT LUMO  -6.517
+ aug-TZVP    : GW gap   7.553   DFT LUMO  -6.438
+
+Molecule: c-hcoh  Formula: H2C1O1
+ aug-cc-pVDZ : GW gap   9.503   DFT LUMO  -1.702
+ aug-cc-pVTZ : GW gap   9.698   DFT LUMO  -1.702
+ aug-cc-pVQZ : GW gap   9.699   DFT LUMO  -1.705
+ aug-cc-pV5Z : GW gap   9.816   DFT LUMO  -1.706
+ aug-SZVSR   : GW gap   9.717   DFT LUMO  -1.020
+ aug-SZV     : GW gap   9.846   DFT LUMO  -1.537
+ aug-DZVP    : GW gap   9.828   DFT LUMO  -1.785
+ aug-TZVP    : GW gap   9.942   DFT LUMO  -1.633
+
+Molecule: c-hono  Formula: H1N1O2
+ aug-cc-pVDZ : GW gap  11.473   DFT LUMO  -2.508
+ aug-cc-pVTZ : GW gap  11.424   DFT LUMO  -2.489
+ aug-cc-pVQZ : GW gap  11.372   DFT LUMO  -2.489
+ aug-cc-pV5Z : GW gap  11.399   DFT LUMO  -2.490
+ aug-SZVSR   : GW gap  11.791   DFT LUMO  -1.186
+ aug-SZV     : GW gap  11.824   DFT LUMO  -3.798
+ aug-DZVP    : GW gap  11.521   DFT LUMO  -2.784
+ aug-TZVP    : GW gap  11.524   DFT LUMO  -2.521
+
+Molecule: c-n2h2  Formula: H2N2
+ aug-cc-pVDZ : GW gap  10.540   DFT LUMO  -1.783
+ aug-cc-pVTZ : GW gap  10.768   DFT LUMO  -1.784
+ aug-cc-pVQZ : GW gap  10.803   DFT LUMO  -1.787
+ aug-cc-pV5Z : GW gap  10.907   DFT LUMO  -1.787
+ aug-SZVSR   : GW gap  10.872   DFT LUMO  -1.437
+ aug-SZV     : GW gap  11.564   DFT LUMO  -2.371
+ aug-DZVP    : GW gap  11.026   DFT LUMO  -1.929
+ aug-TZVP    : GW gap  11.104   DFT LUMO  -1.774
+
+Molecule: c2h2  Formula: H2C2
+ aug-cc-pVDZ : GW gap  11.677   DFT LUMO   0.270
+ aug-cc-pVTZ : GW gap  11.881   DFT LUMO   0.206
+ aug-cc-pVQZ : GW gap  11.967   DFT LUMO   0.178
+ aug-cc-pV5Z : GW gap  11.974   DFT LUMO   0.141
+ aug-SZVSR   : GW gap  12.675   DFT LUMO   0.667
+ aug-SZV     : GW gap  12.404   DFT LUMO   0.634
+ aug-DZVP    : GW gap  12.278   DFT LUMO   0.484
+ aug-TZVP    : GW gap  12.327   DFT LUMO   0.487
+
+Molecule: c2h3f  Formula: H3C2F1
+ aug-cc-pVDZ : GW gap  10.812   DFT LUMO   0.028
+ aug-cc-pVTZ : GW gap  11.049   DFT LUMO   0.011
+ aug-cc-pVQZ : GW gap  11.143   DFT LUMO   0.004
+ aug-cc-pV5Z : GW gap  11.164   DFT LUMO   0.001
+ aug-SZVSR   : GW gap  11.838   DFT LUMO  -0.028
+ aug-SZV     : GW gap  11.593   DFT LUMO  -0.066
+ aug-DZVP    : GW gap  11.409   DFT LUMO  -0.031
+ aug-TZVP    : GW gap  11.326   DFT LUMO   0.006
+
+Molecule: c2h4  Formula: H4C2
+ aug-cc-pVDZ : GW gap  11.003   DFT LUMO  -0.059
+ aug-cc-pVTZ : GW gap  11.190   DFT LUMO  -0.082
+ aug-cc-pVQZ : GW gap  11.263   DFT LUMO  -0.087
+ aug-cc-pV5Z : GW gap  11.265   DFT LUMO  -0.087
+ aug-SZVSR   : GW gap  11.741   DFT LUMO   0.037
+ aug-SZV     : GW gap  11.477   DFT LUMO  -0.031
+ aug-DZVP    : GW gap  11.526   DFT LUMO  -0.083
+ aug-TZVP    : GW gap  11.467   DFT LUMO  -0.051
+
+Molecule: c2h5f  Formula: H5C2F1
+ aug-cc-pVDZ : GW gap  12.753   DFT LUMO   0.005
+ aug-cc-pVTZ : GW gap  13.075   DFT LUMO  -0.032
+ aug-cc-pVQZ : GW gap  13.209   DFT LUMO  -0.054
+ aug-cc-pV5Z : GW gap  13.251   DFT LUMO  -0.074
+ aug-SZVSR   : GW gap  13.697   DFT LUMO   0.432
+ aug-SZV     : GW gap  13.660   DFT LUMO   0.342
+ aug-DZVP    : GW gap  13.452   DFT LUMO   0.115
+ aug-TZVP    : GW gap  13.298   DFT LUMO   0.004
+
+Molecule: c2h6  Formula: H6C2
+ aug-cc-pVDZ : GW gap  13.235   DFT LUMO   0.068
+ aug-cc-pVTZ : GW gap  13.416   DFT LUMO   0.026
+ aug-cc-pVQZ : GW gap  13.481   DFT LUMO   0.003
+ aug-cc-pV5Z : GW gap  13.468   DFT LUMO  -0.017
+ aug-SZVSR   : GW gap  13.756   DFT LUMO   0.519
+ aug-SZV     : GW gap  13.721   DFT LUMO   0.453
+ aug-DZVP    : GW gap  13.705   DFT LUMO   0.213
+ aug-TZVP    : GW gap  13.523   DFT LUMO   0.081
+
+Molecule: ccl2  Formula: C0
+ aug-cc-pVDZ : GW gap   8.408   DFT LUMO  -3.442
+ aug-cc-pVTZ : GW gap   8.256   DFT LUMO  -3.429
+ aug-cc-pVQZ : GW gap   8.175   DFT LUMO  -3.434
+ aug-cc-pV5Z : GW gap   8.248   DFT LUMO  -3.447
+ aug-SZVSR   : GW gap    N/A   DFT LUMO    N/A
+ aug-SZV     : GW gap    N/A   DFT LUMO    N/A
+ aug-DZVP    : GW gap    N/A   DFT LUMO    N/A
+ aug-TZVP    : GW gap    N/A   DFT LUMO    N/A
+
+Molecule: cf2  Formula: C1F2
+ aug-cc-pVDZ : GW gap  12.147   DFT LUMO  -2.373
+ aug-cc-pVTZ : GW gap  12.036   DFT LUMO  -2.336
+ aug-cc-pVQZ : GW gap  11.874   DFT LUMO  -2.333
+ aug-cc-pV5Z : GW gap  11.979   DFT LUMO  -2.335
+ aug-SZVSR   : GW gap  13.489   DFT LUMO  -2.244
+ aug-SZV     : GW gap  12.704   DFT LUMO  -2.402
+ aug-DZVP    : GW gap  12.421   DFT LUMO  -2.484
+ aug-TZVP    : GW gap  12.304   DFT LUMO  -2.336
+
+Molecule: cf4  Formula: C1F4
+ aug-cc-pVDZ : GW gap  17.092   DFT LUMO   0.559
+ aug-cc-pVTZ : GW gap  17.317   DFT LUMO   0.451
+ aug-cc-pVQZ : GW gap  17.440   DFT LUMO   0.367
+ aug-cc-pV5Z : GW gap  17.358   DFT LUMO   0.282
+ aug-SZVSR   : GW gap  22.702   DFT LUMO   2.874
+ aug-SZV     : GW gap  20.170   DFT LUMO   1.491
+ aug-DZVP    : GW gap  19.150   DFT LUMO   2.046
+ aug-TZVP    : GW gap  17.790   DFT LUMO   0.548
+
+Molecule: ch2c  Formula: H2C2
+ aug-cc-pVDZ : GW gap  10.482   DFT LUMO  -2.778
+ aug-cc-pVTZ : GW gap  10.446   DFT LUMO  -2.780
+ aug-cc-pVQZ : GW gap  10.348   DFT LUMO  -2.781
+ aug-cc-pV5Z : GW gap  10.471   DFT LUMO  -2.782
+ aug-SZVSR   : GW gap  10.600   DFT LUMO  -2.333
+ aug-SZV     : GW gap  10.302   DFT LUMO  -2.546
+ aug-DZVP    : GW gap  10.620   DFT LUMO  -2.832
+ aug-TZVP    : GW gap  10.632   DFT LUMO  -2.727
+
+Molecule: ch2f2  Formula: H2C1F2
+ aug-cc-pVDZ : GW gap  13.577   DFT LUMO   0.042
+ aug-cc-pVTZ : GW gap  13.874   DFT LUMO   0.009
+ aug-cc-pVQZ : GW gap  14.002   DFT LUMO  -0.012
+ aug-cc-pV5Z : GW gap  14.027   DFT LUMO  -0.031
+ aug-SZVSR   : GW gap  15.061   DFT LUMO   0.562
+ aug-SZV     : GW gap  14.953   DFT LUMO   0.435
+ aug-DZVP    : GW gap  14.376   DFT LUMO   0.161
+ aug-TZVP    : GW gap  14.342   DFT LUMO   0.150
+
+Molecule: ch2nh  Formula: H3C1N1
+ aug-cc-pVDZ : GW gap  10.992   DFT LUMO  -0.683
+ aug-cc-pVTZ : GW gap  11.196   DFT LUMO  -0.700
+ aug-cc-pVQZ : GW gap  11.244   DFT LUMO  -0.706
+ aug-cc-pV5Z : GW gap  11.315   DFT LUMO  -0.706
+ aug-SZVSR   : GW gap  11.670   DFT LUMO  -0.468
+ aug-SZV     : GW gap  11.880   DFT LUMO  -0.733
+ aug-DZVP    : GW gap  11.554   DFT LUMO  -0.765
+ aug-TZVP    : GW gap  11.584   DFT LUMO  -0.645
+
+Molecule: ch3f  Formula: H3C1F1
+ aug-cc-pVDZ : GW gap  13.501   DFT LUMO   0.045
+ aug-cc-pVTZ : GW gap  13.806   DFT LUMO   0.009
+ aug-cc-pVQZ : GW gap  13.936   DFT LUMO  -0.015
+ aug-cc-pV5Z : GW gap  13.962   DFT LUMO  -0.032
+ aug-SZVSR   : GW gap  14.666   DFT LUMO   0.566
+ aug-SZV     : GW gap  14.594   DFT LUMO   0.439
+ aug-DZVP    : GW gap  14.255   DFT LUMO   0.172
+ aug-TZVP    : GW gap  14.190   DFT LUMO   0.125
+
+Molecule: ch4  Formula: H4C1
+ aug-cc-pVDZ : GW gap  14.833   DFT LUMO   0.097
+ aug-cc-pVTZ : GW gap  15.014   DFT LUMO   0.046
+ aug-cc-pVQZ : GW gap  15.083   DFT LUMO   0.021
+ aug-cc-pV5Z : GW gap  15.073   DFT LUMO   0.004
+ aug-SZVSR   : GW gap  15.463   DFT LUMO   0.614
+ aug-SZV     : GW gap  15.408   DFT LUMO   0.536
+ aug-DZVP    : GW gap  15.324   DFT LUMO   0.263
+ aug-TZVP    : GW gap  15.274   DFT LUMO   0.173
+
+Molecule: cl2  Formula: N/A
+ aug-cc-pVDZ : GW gap  10.682   DFT LUMO  -3.328
+ aug-cc-pVTZ : GW gap  10.633   DFT LUMO  -3.217
+ aug-cc-pVQZ : GW gap  10.604   DFT LUMO  -3.211
+ aug-cc-pV5Z : GW gap  10.586   DFT LUMO  -3.217
+ aug-SZVSR   : GW gap  10.777   DFT LUMO  -4.057
+ aug-SZV     : GW gap  10.797   DFT LUMO  -4.057
+ aug-DZVP    : GW gap  10.533   DFT LUMO  -3.502
+ aug-TZVP    : GW gap  10.728   DFT LUMO  -3.163
+
+Molecule: clcn  Formula: C1N1
+ aug-cc-pVDZ : GW gap  13.335   DFT LUMO  -0.709
+ aug-cc-pVTZ : GW gap  13.378   DFT LUMO  -0.737
+ aug-cc-pVQZ : GW gap  13.451   DFT LUMO  -0.765
+ aug-cc-pV5Z : GW gap  13.420   DFT LUMO  -0.783
+ aug-SZVSR   : GW gap  14.435   DFT LUMO  -0.807
+ aug-SZV     : GW gap  14.463   DFT LUMO  -0.964
+ aug-DZVP    : GW gap  13.977   DFT LUMO  -0.693
+ aug-TZVP    : GW gap  13.586   DFT LUMO  -0.656
+
+Molecule: clf  Formula: F1
+ aug-cc-pVDZ : GW gap  12.248   DFT LUMO  -3.215
+ aug-cc-pVTZ : GW gap  12.137   DFT LUMO  -3.182
+ aug-cc-pVQZ : GW gap  12.179   DFT LUMO  -3.183
+ aug-cc-pV5Z : GW gap  12.122   DFT LUMO  -3.198
+ aug-SZVSR   : GW gap  12.279   DFT LUMO  -4.259
+ aug-SZV     : GW gap  12.284   DFT LUMO  -4.259
+ aug-DZVP    : GW gap  12.308   DFT LUMO  -3.406
+ aug-TZVP    : GW gap  12.314   DFT LUMO  -3.165
+
+Molecule: co  Formula: C1O1
+ aug-cc-pVDZ : GW gap  15.301   DFT LUMO  -0.807
+ aug-cc-pVTZ : GW gap  15.284   DFT LUMO  -0.809
+ aug-cc-pVQZ : GW gap  15.074   DFT LUMO  -0.810
+ aug-cc-pV5Z : GW gap  15.043   DFT LUMO  -0.813
+ aug-SZVSR   : GW gap  18.362   DFT LUMO   1.470
+ aug-SZV     : GW gap  16.840   DFT LUMO  -0.702
+ aug-DZVP    : GW gap  16.217   DFT LUMO  -0.896
+ aug-TZVP    : GW gap  15.871   DFT LUMO  -0.530
+
+Molecule: co2  Formula: C1O2
+ aug-cc-pVDZ : GW gap  14.366   DFT LUMO  -0.164
+ aug-cc-pVTZ : GW gap  14.601   DFT LUMO  -0.217
+ aug-cc-pVQZ : GW gap  14.753   DFT LUMO  -0.255
+ aug-cc-pV5Z : GW gap  14.760   DFT LUMO  -0.283
+ aug-SZVSR   : GW gap  18.462   DFT LUMO   2.970
+ aug-SZV     : GW gap  16.257   DFT LUMO  -0.094
+ aug-DZVP    : GW gap  16.573   DFT LUMO   0.700
+ aug-TZVP    : GW gap  15.008   DFT LUMO  -0.156
+
+Molecule: cs  Formula: C1S1
+ aug-cc-pVDZ : GW gap  11.354   DFT LUMO  -2.364
+ aug-cc-pVTZ : GW gap  11.141   DFT LUMO  -2.395
+ aug-cc-pVQZ : GW gap  11.022   DFT LUMO  -2.405
+ aug-cc-pV5Z : GW gap  11.107   DFT LUMO  -2.420
+ aug-SZVSR   : GW gap  11.862   DFT LUMO  -1.718
+ aug-SZV     : GW gap  11.250   DFT LUMO  -1.894
+ aug-DZVP    : GW gap  11.400   DFT LUMO  -2.396
+ aug-TZVP    : GW gap  11.265   DFT LUMO  -2.334
+
+Molecule: cs2  Formula: C1S2
+ aug-cc-pVDZ : GW gap   9.949   DFT LUMO  -2.018
+ aug-cc-pVTZ : GW gap   9.756   DFT LUMO  -2.056
+ aug-cc-pVQZ : GW gap   9.772   DFT LUMO  -2.069
+ aug-cc-pV5Z : GW gap   9.746   DFT LUMO  -2.091
+ aug-SZVSR   : GW gap  10.063   DFT LUMO  -1.891
+ aug-SZV     : GW gap   9.998   DFT LUMO  -1.946
+ aug-DZVP    : GW gap   9.980   DFT LUMO  -1.959
+ aug-TZVP    : GW gap   9.862   DFT LUMO  -2.066
+
+Molecule: dioxirane  Formula: H2C1O2
+ aug-cc-pVDZ : GW gap  11.192   DFT LUMO  -1.338
+ aug-cc-pVTZ : GW gap  11.557   DFT LUMO  -1.276
+ aug-cc-pVQZ : GW gap  11.729   DFT LUMO  -1.276
+ aug-cc-pV5Z : GW gap  11.797   DFT LUMO  -1.274
+ aug-SZVSR   : GW gap  11.325   DFT LUMO  -0.046
+ aug-SZV     : GW gap  12.519   DFT LUMO  -2.324
+ aug-DZVP    : GW gap  11.962   DFT LUMO  -1.429
+ aug-TZVP    : GW gap  12.062   DFT LUMO  -1.338
+
+Molecule: f2co  Formula: C1O1F2
+ aug-cc-pVDZ : GW gap  14.265   DFT LUMO  -0.545
+ aug-cc-pVTZ : GW gap  14.488   DFT LUMO  -0.496
+ aug-cc-pVQZ : GW gap  14.642   DFT LUMO  -0.498
+ aug-cc-pV5Z : GW gap  14.614   DFT LUMO  -0.501
+ aug-SZVSR   : GW gap  16.567   DFT LUMO  -0.102
+ aug-SZV     : GW gap  16.169   DFT LUMO  -1.658
+ aug-DZVP    : GW gap  15.761   DFT LUMO  -0.746
+ aug-TZVP    : GW gap  14.839   DFT LUMO  -0.585
+
+Molecule: f2o  Formula: O1F2
+ aug-cc-pVDZ : GW gap  13.573   DFT LUMO  -2.706
+ aug-cc-pVTZ : GW gap  13.640   DFT LUMO  -2.566
+ aug-cc-pVQZ : GW gap  13.778   DFT LUMO  -2.555
+ aug-cc-pV5Z : GW gap  13.682   DFT LUMO  -2.542
+ aug-SZVSR   : GW gap  13.634   DFT LUMO  -2.528
+ aug-SZV     : GW gap  13.553   DFT LUMO  -4.223
+ aug-DZVP    : GW gap  14.067   DFT LUMO  -2.810
+ aug-TZVP    : GW gap  13.622   DFT LUMO  -2.655
+
+Molecule: fccf  Formula: C1F1
+ aug-cc-pVDZ : GW gap  12.078   DFT LUMO   0.041
+ aug-cc-pVTZ : GW gap  12.248   DFT LUMO  -0.037
+ aug-cc-pVQZ : GW gap  12.321   DFT LUMO  -0.090
+ aug-cc-pV5Z : GW gap  12.296   DFT LUMO  -0.139
+ aug-SZVSR   : GW gap    N/A   DFT LUMO    N/A
+ aug-SZV     : GW gap    N/A   DFT LUMO    N/A
+ aug-DZVP    : GW gap    N/A   DFT LUMO    N/A
+ aug-TZVP    : GW gap    N/A   DFT LUMO    N/A
+
+Molecule: foof  Formula: O2F2
+ aug-cc-pVDZ : GW gap  12.175   DFT LUMO  -4.061
+ aug-cc-pVTZ : GW gap  12.200   DFT LUMO  -3.954
+ aug-cc-pVQZ : GW gap  12.234   DFT LUMO  -3.946
+ aug-cc-pV5Z : GW gap  12.186   DFT LUMO  -3.939
+ aug-SZVSR   : GW gap  12.478   DFT LUMO  -3.563
+ aug-SZV     : GW gap  12.035   DFT LUMO  -5.689
+ aug-DZVP    : GW gap  12.449   DFT LUMO  -4.281
+ aug-TZVP    : GW gap  12.220   DFT LUMO  -4.030
+
+Molecule: formic  Formula: H2C1O2
+ aug-cc-pVDZ : GW gap  11.668   DFT LUMO  -0.366
+ aug-cc-pVTZ : GW gap  11.940   DFT LUMO  -0.371
+ aug-cc-pVQZ : GW gap  12.088   DFT LUMO  -0.378
+ aug-cc-pV5Z : GW gap  12.130   DFT LUMO  -0.381
+ aug-SZVSR   : GW gap  11.807   DFT LUMO   0.473
+ aug-SZV     : GW gap  13.027   DFT LUMO  -0.850
+ aug-DZVP    : GW gap  12.330   DFT LUMO  -0.499
+ aug-TZVP    : GW gap  12.466   DFT LUMO  -0.361
+
+Molecule: h2  Formula: H2
+ aug-cc-pVDZ : GW gap  17.645   DFT LUMO   0.736
+ aug-cc-pVTZ : GW gap  17.529   DFT LUMO   0.704
+ aug-cc-pVQZ : GW gap  17.449   DFT LUMO   0.666
+ aug-cc-pV5Z : GW gap  17.263   DFT LUMO   0.580
+ aug-SZVSR   : GW gap  18.848   DFT LUMO   1.339
+ aug-SZV     : GW gap  18.549   DFT LUMO   1.334
+ aug-DZVP    : GW gap  17.944   DFT LUMO   0.871
+ aug-TZVP    : GW gap  18.000   DFT LUMO   0.798
+
+Molecule: h2co  Formula: H2C1O1
+ aug-cc-pVDZ : GW gap  11.065   DFT LUMO  -1.454
+ aug-cc-pVTZ : GW gap  11.357   DFT LUMO  -1.461
+ aug-cc-pVQZ : GW gap  11.488   DFT LUMO  -1.463
+ aug-cc-pV5Z : GW gap  11.522   DFT LUMO  -1.463
+ aug-SZVSR   : GW gap  11.595   DFT LUMO  -0.711
+ aug-SZV     : GW gap  12.064   DFT LUMO  -1.758
+ aug-DZVP    : GW gap  11.721   DFT LUMO  -1.580
+ aug-TZVP    : GW gap  11.847   DFT LUMO  -1.432
+
+Molecule: h2o  Formula: H2O1
+ aug-cc-pVDZ : GW gap  12.637   DFT LUMO  -0.324
+ aug-cc-pVTZ : GW gap  12.949   DFT LUMO  -0.340
+ aug-cc-pVQZ : GW gap  13.131   DFT LUMO  -0.348
+ aug-cc-pV5Z : GW gap  13.168   DFT LUMO  -0.363
+ aug-SZVSR   : GW gap  12.037   DFT LUMO  -0.035
+ aug-SZV     : GW gap  13.224   DFT LUMO  -0.227
+ aug-DZVP    : GW gap  12.975   DFT LUMO  -0.206
+ aug-TZVP    : GW gap  13.485   DFT LUMO  -0.202
+
+Molecule: h2s  Formula: H2S1
+ aug-cc-pVDZ : GW gap  10.513   DFT LUMO  -0.291
+ aug-cc-pVTZ : GW gap  10.707   DFT LUMO  -0.307
+ aug-cc-pVQZ : GW gap  10.861   DFT LUMO  -0.321
+ aug-cc-pV5Z : GW gap  10.928   DFT LUMO  -0.332
+ aug-SZVSR   : GW gap  11.123   DFT LUMO   0.108
+ aug-SZV     : GW gap  11.043   DFT LUMO   0.080
+ aug-DZVP    : GW gap  10.958   DFT LUMO  -0.156
+ aug-TZVP    : GW gap  11.267   DFT LUMO  -0.101
+
+Molecule: hccf  Formula: H0C1F0
+ aug-cc-pVDZ : GW gap  11.749   DFT LUMO  -0.090
+ aug-cc-pVTZ : GW gap  11.971   DFT LUMO  -0.124
+ aug-cc-pVQZ : GW gap  12.121   DFT LUMO  -0.136
+ aug-cc-pV5Z : GW gap  12.107   DFT LUMO  -0.156
+ aug-SZVSR   : GW gap    N/A   DFT LUMO    N/A
+ aug-SZV     : GW gap    N/A   DFT LUMO    N/A
+ aug-DZVP    : GW gap    N/A   DFT LUMO    N/A
+ aug-TZVP    : GW gap    N/A   DFT LUMO    N/A
+
+Molecule: hcl  Formula: H1
+ aug-cc-pVDZ : GW gap  12.961   DFT LUMO  -0.403
+ aug-cc-pVTZ : GW gap  13.078   DFT LUMO  -0.411
+ aug-cc-pVQZ : GW gap  13.288   DFT LUMO  -0.424
+ aug-cc-pV5Z : GW gap  13.325   DFT LUMO  -0.435
+ aug-SZVSR   : GW gap  14.254   DFT LUMO  -0.256
+ aug-SZV     : GW gap  14.314   DFT LUMO  -0.235
+ aug-DZVP    : GW gap  13.611   DFT LUMO  -0.323
+ aug-TZVP    : GW gap  13.903   DFT LUMO  -0.181
+
+Molecule: hcn  Formula: H1C1N1
+ aug-cc-pVDZ : GW gap  13.764   DFT LUMO  -0.033
+ aug-cc-pVTZ : GW gap  14.001   DFT LUMO  -0.062
+ aug-cc-pVQZ : GW gap  14.036   DFT LUMO  -0.072
+ aug-cc-pV5Z : GW gap  14.148   DFT LUMO  -0.078
+ aug-SZVSR   : GW gap  15.021   DFT LUMO   0.098
+ aug-SZV     : GW gap  15.246   DFT LUMO  -0.175
+ aug-DZVP    : GW gap  14.414   DFT LUMO  -0.182
+ aug-TZVP    : GW gap  14.356   DFT LUMO  -0.008
+
+Molecule: hcno  Formula: H1C1N1O1
+ aug-cc-pVDZ : GW gap  10.694   DFT LUMO  -0.063
+ aug-cc-pVTZ : GW gap  11.005   DFT LUMO  -0.082
+ aug-cc-pVQZ : GW gap  11.180   DFT LUMO  -0.094
+ aug-cc-pV5Z : GW gap  11.200   DFT LUMO  -0.119
+ aug-SZVSR   : GW gap  11.277   DFT LUMO   0.675
+ aug-SZV     : GW gap  12.027   DFT LUMO  -0.525
+ aug-DZVP    : GW gap  11.252   DFT LUMO  -0.190
+ aug-TZVP    : GW gap  11.324   DFT LUMO  -0.044
+
+Molecule: hcof  Formula: H1C1O1F1
+ aug-cc-pVDZ : GW gap  12.674   DFT LUMO  -1.102
+ aug-cc-pVTZ : GW gap  12.976   DFT LUMO  -1.095
+ aug-cc-pVQZ : GW gap  13.110   DFT LUMO  -1.097
+ aug-cc-pV5Z : GW gap  13.165   DFT LUMO  -1.098
+ aug-SZVSR   : GW gap  13.796   DFT LUMO  -0.583
+ aug-SZV     : GW gap  14.316   DFT LUMO  -1.729
+ aug-DZVP    : GW gap  13.450   DFT LUMO  -1.260
+ aug-TZVP    : GW gap  13.604   DFT LUMO  -1.115
+
+Molecule: hf  Formula: H1F1
+ aug-cc-pVDZ : GW gap  16.029   DFT LUMO  -0.334
+ aug-cc-pVTZ : GW gap  16.376   DFT LUMO  -0.335
+ aug-cc-pVQZ : GW gap  16.569   DFT LUMO  -0.342
+ aug-cc-pV5Z : GW gap  16.591   DFT LUMO  -0.358
+ aug-SZVSR   : GW gap  17.029   DFT LUMO  -0.119
+ aug-SZV     : GW gap  17.164   DFT LUMO  -0.091
+ aug-DZVP    : GW gap  16.743   DFT LUMO  -0.242
+ aug-TZVP    : GW gap  16.941   DFT LUMO  -0.164
+
+Molecule: hnc  Formula: H1C1N1
+ aug-cc-pVDZ : GW gap  12.117   DFT LUMO  -0.151
+ aug-cc-pVTZ : GW gap  12.271   DFT LUMO  -0.178
+ aug-cc-pVQZ : GW gap  12.178   DFT LUMO  -0.193
+ aug-cc-pV5Z : GW gap  12.362   DFT LUMO  -0.204
+ aug-SZVSR   : GW gap  13.010   DFT LUMO   0.502
+ aug-SZV     : GW gap  13.062   DFT LUMO   0.378
+ aug-DZVP    : GW gap  12.771   DFT LUMO  -0.008
+ aug-TZVP    : GW gap  12.811   DFT LUMO  -0.036
+
+Molecule: hnco  Formula: H1C1N1O1
+ aug-cc-pVDZ : GW gap  11.786   DFT LUMO  -0.303
+ aug-cc-pVTZ : GW gap  12.095   DFT LUMO  -0.336
+ aug-cc-pVQZ : GW gap  12.258   DFT LUMO  -0.348
+ aug-cc-pV5Z : GW gap  12.295   DFT LUMO  -0.363
+ aug-SZVSR   : GW gap  12.558   DFT LUMO   0.483
+ aug-SZV     : GW gap  13.053   DFT LUMO  -0.681
+ aug-DZVP    : GW gap  13.212   DFT LUMO  -0.174
+ aug-TZVP    : GW gap  12.478   DFT LUMO  -0.235
+
+Molecule: hnnn  Formula: H1N3
+ aug-cc-pVDZ : GW gap  10.928   DFT LUMO  -1.017
+ aug-cc-pVTZ : GW gap  11.234   DFT LUMO  -1.018
+ aug-cc-pVQZ : GW gap  11.380   DFT LUMO  -1.024
+ aug-cc-pV5Z : GW gap  11.413   DFT LUMO  -1.025
+ aug-SZVSR   : GW gap  11.765   DFT LUMO  -0.945
+ aug-SZV     : GW gap  12.345   DFT LUMO  -2.092
+ aug-DZVP    : GW gap  11.607   DFT LUMO  -1.137
+ aug-TZVP    : GW gap  11.642   DFT LUMO  -0.993
+
+Molecule: hocn  Formula: H1C1N1O1
+ aug-cc-pVDZ : GW gap  11.873   DFT LUMO  -1.003
+ aug-cc-pVTZ : GW gap  12.174   DFT LUMO  -1.008
+ aug-cc-pVQZ : GW gap  12.381   DFT LUMO  -1.009
+ aug-cc-pV5Z : GW gap  12.423   DFT LUMO  -1.010
+ aug-SZVSR   : GW gap  12.080   DFT LUMO  -0.741
+ aug-SZV     : GW gap  12.814   DFT LUMO  -1.051
+ aug-DZVP    : GW gap  12.342   DFT LUMO  -0.915
+ aug-TZVP    : GW gap  12.337   DFT LUMO  -0.982
+
+Molecule: hof  Formula: H1O1F1
+ aug-cc-pVDZ : GW gap  13.065   DFT LUMO  -1.770
+ aug-cc-pVTZ : GW gap  13.402   DFT LUMO  -1.675
+ aug-cc-pVQZ : GW gap  13.584   DFT LUMO  -1.672
+ aug-cc-pV5Z : GW gap  13.635   DFT LUMO  -1.665
+ aug-SZVSR   : GW gap  13.343   DFT LUMO  -1.571
+ aug-SZV     : GW gap  14.273   DFT LUMO  -2.822
+ aug-DZVP    : GW gap  13.732   DFT LUMO  -1.776
+ aug-TZVP    : GW gap  14.017   DFT LUMO  -1.724
+
+Molecule: honc  Formula: H1C1N1O1
+ aug-cc-pVDZ : GW gap  11.848   DFT LUMO  -0.912
+ aug-cc-pVTZ : GW gap  11.943   DFT LUMO  -0.903
+ aug-cc-pVQZ : GW gap  11.876   DFT LUMO  -0.906
+ aug-cc-pV5Z : GW gap  12.052   DFT LUMO  -0.907
+ aug-SZVSR   : GW gap  11.885   DFT LUMO  -0.484
+ aug-SZV     : GW gap  12.879   DFT LUMO  -0.924
+ aug-DZVP    : GW gap  12.341   DFT LUMO  -0.761
+ aug-TZVP    : GW gap  12.313   DFT LUMO  -0.833
+
+Molecule: hooh  Formula: H2O2
+ aug-cc-pVDZ : GW gap  11.747   DFT LUMO  -0.214
+ aug-cc-pVTZ : GW gap  12.067   DFT LUMO  -0.233
+ aug-cc-pVQZ : GW gap  12.238   DFT LUMO  -0.244
+ aug-cc-pV5Z : GW gap  12.297   DFT LUMO  -0.262
+ aug-SZVSR   : GW gap  11.285   DFT LUMO   0.258
+ aug-SZV     : GW gap  12.810   DFT LUMO  -0.698
+ aug-DZVP    : GW gap  12.282   DFT LUMO  -0.094
+ aug-TZVP    : GW gap  12.645   DFT LUMO  -0.195
+
+Molecule: li2  Formula: N/A
+ aug-cc-pVDZ : GW gap   4.682   DFT LUMO  -1.360
+ aug-cc-pVTZ : GW gap   4.722   DFT LUMO  -1.370
+ aug-cc-pVQZ : GW gap   4.750   DFT LUMO  -1.363
+ aug-cc-pV5Z : GW gap   4.759   DFT LUMO  -1.363
+ aug-SZVSR   : GW gap   3.662   DFT LUMO  -1.328
+ aug-SZV     : GW gap   4.684   DFT LUMO  -1.328
+ aug-DZVP    : GW gap   4.634   DFT LUMO  -1.334
+ aug-TZVP    : GW gap   4.726   DFT LUMO  -1.363
+
+Molecule: li2_ch2n_2  Formula: N/A
+ aug-cc-pVDZ : GW gap   8.018   DFT LUMO  -0.396
+ aug-cc-pVTZ : GW gap   8.373   DFT LUMO  -0.382
+ aug-cc-pVQZ : GW gap   8.513   DFT LUMO  -0.379
+ aug-cc-pV5Z : GW gap   8.582   DFT LUMO  -0.379
+ aug-SZVSR   : GW gap   8.286   DFT LUMO  -0.212
+ aug-SZV     : GW gap   8.323   DFT LUMO  -0.233
+ aug-DZVP    : GW gap   8.548   DFT LUMO  -0.277
+ aug-TZVP    : GW gap   8.558   DFT LUMO  -0.318
+
+Molecule: li2_ch4  Formula: N/A
+ aug-cc-pVDZ : GW gap   8.034   DFT LUMO  -0.441
+ aug-cc-pVTZ : GW gap   8.297   DFT LUMO  -0.423
+ aug-cc-pVQZ : GW gap   8.394   DFT LUMO  -0.421
+ aug-cc-pV5Z : GW gap   8.446   DFT LUMO  -0.420
+ aug-SZVSR   : GW gap   8.186   DFT LUMO  -0.290
+ aug-SZV     : GW gap   8.173   DFT LUMO  -0.296
+ aug-DZVP    : GW gap   8.391   DFT LUMO  -0.334
+ aug-TZVP    : GW gap   8.453   DFT LUMO  -0.370
+
+Molecule: li3_me  Formula: N/A
+ aug-cc-pVDZ : GW gap   4.929   DFT LUMO  -1.170
+ aug-cc-pVTZ : GW gap   4.968   DFT LUMO  -1.166
+ aug-cc-pVQZ : GW gap   4.990   DFT LUMO  -1.164
+ aug-cc-pV5Z : GW gap   5.001   DFT LUMO  -1.164
+ aug-SZVSR   : GW gap   4.499   DFT LUMO  -1.120
+ aug-SZV     : GW gap   5.041   DFT LUMO  -1.122
+ aug-DZVP    : GW gap   4.968   DFT LUMO  -1.144
+ aug-TZVP    : GW gap   4.996   DFT LUMO  -1.156
+
+Molecule: li4_c  Formula: N/A
+ aug-cc-pVDZ : GW gap   3.877   DFT LUMO  -1.104
+ aug-cc-pVTZ : GW gap   4.039   DFT LUMO  -1.099
+ aug-cc-pVQZ : GW gap   4.129   DFT LUMO  -1.097
+ aug-cc-pV5Z : GW gap   4.162   DFT LUMO  -1.097
+ aug-SZVSR   : GW gap   3.994   DFT LUMO  -1.011
+ aug-SZV     : GW gap   4.043   DFT LUMO  -1.030
+ aug-DZVP    : GW gap   4.036   DFT LUMO  -1.036
+ aug-TZVP    : GW gap   4.071   DFT LUMO  -1.087
+
+Molecule: li4_me4  Formula: N/A
+ aug-cc-pVDZ : GW gap   8.080   DFT LUMO  -0.565
+ aug-cc-pVTZ : GW gap   8.423   DFT LUMO  -0.548
+ aug-cc-pVQZ : GW gap   8.543   DFT LUMO  -0.546
+ aug-cc-pV5Z : GW gap   8.607   DFT LUMO  -0.546
+ aug-SZVSR   : GW gap   8.187   DFT LUMO  -0.480
+ aug-SZV     : GW gap   8.218   DFT LUMO  -0.457
+ aug-DZVP    : GW gap   8.419   DFT LUMO  -0.490
+ aug-TZVP    : GW gap   8.520   DFT LUMO  -0.518
+
+Molecule: li5_ch  Formula: N/A
+ aug-cc-pVDZ : GW gap   3.585   DFT LUMO  -1.400
+ aug-cc-pVTZ : GW gap   3.553   DFT LUMO  -1.405
+ aug-cc-pVQZ : GW gap   3.536   DFT LUMO  -1.406
+ aug-cc-pV5Z : GW gap   3.545   DFT LUMO  -1.406
+ aug-SZVSR   : GW gap   3.490   DFT LUMO  -1.370
+ aug-SZV     : GW gap   3.709   DFT LUMO  -1.377
+ aug-DZVP    : GW gap   3.611   DFT LUMO  -1.383
+ aug-TZVP    : GW gap   3.599   DFT LUMO  -1.393
+
+Molecule: li8  Formula: N/A
+ aug-cc-pVDZ : GW gap   3.763   DFT LUMO  -1.504
+ aug-cc-pVTZ : GW gap   3.790   DFT LUMO  -1.513
+ aug-cc-pVQZ : GW gap   3.803   DFT LUMO  -1.511
+ aug-cc-pV5Z : GW gap   3.808   DFT LUMO  -1.510
+ aug-SZVSR   : GW gap   3.388   DFT LUMO  -1.473
+ aug-SZV     : GW gap   3.808   DFT LUMO  -1.473
+ aug-DZVP    : GW gap   3.821   DFT LUMO  -1.469
+ aug-TZVP    : GW gap   3.796   DFT LUMO  -1.507
+
+Molecule: li_ch2n  Formula: N/A
+ aug-cc-pVDZ : GW gap   7.482   DFT LUMO  -1.114
+ aug-cc-pVTZ : GW gap   7.817   DFT LUMO  -1.091
+ aug-cc-pVQZ : GW gap   7.939   DFT LUMO  -1.087
+ aug-cc-pV5Z : GW gap   8.014   DFT LUMO  -1.087
+ aug-SZVSR   : GW gap   7.476   DFT LUMO  -1.028
+ aug-SZV     : GW gap   7.514   DFT LUMO  -1.081
+ aug-DZVP    : GW gap   7.815   DFT LUMO  -1.072
+ aug-TZVP    : GW gap   7.856   DFT LUMO  -1.077
+
+Molecule: li_h  Formula: N/A
+ aug-cc-pVDZ : GW gap   7.286   DFT LUMO  -1.144
+ aug-cc-pVTZ : GW gap   7.410   DFT LUMO  -1.111
+ aug-cc-pVQZ : GW gap   7.456   DFT LUMO  -1.112
+ aug-cc-pV5Z : GW gap   7.470   DFT LUMO  -1.110
+ aug-SZVSR   : GW gap   7.195   DFT LUMO  -1.005
+ aug-SZV     : GW gap   7.196   DFT LUMO  -1.023
+ aug-DZVP    : GW gap   7.391   DFT LUMO  -1.067
+ aug-TZVP    : GW gap   7.418   DFT LUMO  -1.096
+
+Molecule: li_me  Formula: N/A
+ aug-cc-pVDZ : GW gap   6.562   DFT LUMO  -1.116
+ aug-cc-pVTZ : GW gap   6.819   DFT LUMO  -1.094
+ aug-cc-pVQZ : GW gap   6.913   DFT LUMO  -1.093
+ aug-cc-pV5Z : GW gap   6.971   DFT LUMO  -1.091
+ aug-SZVSR   : GW gap   6.497   DFT LUMO  -1.018
+ aug-SZV     : GW gap   6.445   DFT LUMO  -1.017
+ aug-DZVP    : GW gap   6.751   DFT LUMO  -1.052
+ aug-TZVP    : GW gap   6.857   DFT LUMO  -1.074
+
+Molecule: lio  Formula: N/A
+ aug-cc-pVDZ : GW gap   8.503   DFT LUMO  -1.141
+ aug-cc-pVTZ : GW gap    N/A   DFT LUMO    N/A
+ aug-cc-pVQZ : GW gap   9.074   DFT LUMO  -1.111
+ aug-cc-pV5Z : GW gap   9.177   DFT LUMO  -1.110
+ aug-SZVSR   : GW gap    N/A   DFT LUMO    N/A
+ aug-SZV     : GW gap    N/A   DFT LUMO    N/A
+ aug-DZVP    : GW gap    N/A   DFT LUMO    N/A
+ aug-TZVP    : GW gap    N/A   DFT LUMO    N/A
+
+Molecule: methanol  Formula: H4C1O1
+ aug-cc-pVDZ : GW gap  11.235   DFT LUMO  -0.100
+ aug-cc-pVTZ : GW gap  11.532   DFT LUMO  -0.131
+ aug-cc-pVQZ : GW gap  11.676   DFT LUMO  -0.148
+ aug-cc-pV5Z : GW gap  11.715   DFT LUMO  -0.164
+ aug-SZVSR   : GW gap  11.228   DFT LUMO   0.260
+ aug-SZV     : GW gap  11.882   DFT LUMO   0.135
+ aug-DZVP    : GW gap  11.774   DFT LUMO   0.008
+ aug-TZVP    : GW gap  11.867   DFT LUMO  -0.052
+
+Molecule: mgo  Formula: N/A
+ aug-cc-pVDZ : GW gap   5.484   DFT LUMO  -3.654
+ aug-cc-pVTZ : GW gap   5.668   DFT LUMO  -3.604
+ aug-cc-pVQZ : GW gap   5.738   DFT LUMO  -3.595
+ aug-cc-pV5Z : GW gap   5.758   DFT LUMO  -3.578
+ aug-SZVSR   : GW gap   6.303   DFT LUMO  -2.910
+ aug-SZV     : GW gap   5.781   DFT LUMO  -3.588
+ aug-DZVP    : GW gap   5.615   DFT LUMO  -3.633
+ aug-TZVP    : GW gap   5.785   DFT LUMO  -3.590
+
+Molecule: n2  Formula: N2
+ aug-cc-pVDZ : GW gap  17.422   DFT LUMO  -0.656
+ aug-cc-pVTZ : GW gap  17.295   DFT LUMO  -0.662
+ aug-cc-pVQZ : GW gap  17.138   DFT LUMO  -0.663
+ aug-cc-pV5Z : GW gap  17.090   DFT LUMO  -0.662
+ aug-SZVSR   : GW gap  18.817   DFT LUMO  -0.430
+ aug-SZV     : GW gap  18.095   DFT LUMO  -1.903
+ aug-DZVP    : GW gap  17.820   DFT LUMO  -0.850
+ aug-TZVP    : GW gap  17.784   DFT LUMO  -0.603
+
+Molecule: n2o  Formula: N2O1
+ aug-cc-pVDZ : GW gap  13.992   DFT LUMO  -0.496
+ aug-cc-pVTZ : GW gap  14.127   DFT LUMO  -0.494
+ aug-cc-pVQZ : GW gap  14.155   DFT LUMO  -0.499
+ aug-cc-pV5Z : GW gap  14.098   DFT LUMO  -0.502
+ aug-SZVSR   : GW gap  16.017   DFT LUMO   0.390
+ aug-SZV     : GW gap  15.174   DFT LUMO  -2.112
+ aug-DZVP    : GW gap  14.615   DFT LUMO  -0.717
+ aug-TZVP    : GW gap  14.357   DFT LUMO  -0.442
+
+Molecule: nao  Formula: N/A
+ aug-cc-pVDZ : GW gap    N/A   DFT LUMO    N/A
+ aug-cc-pVTZ : GW gap    N/A   DFT LUMO    N/A
+ aug-cc-pVQZ : GW gap    N/A   DFT LUMO    N/A
+ aug-cc-pV5Z : GW gap   7.752   DFT LUMO  -1.445
+ aug-SZVSR   : GW gap    N/A   DFT LUMO    N/A
+ aug-SZV     : GW gap    N/A   DFT LUMO    N/A
+ aug-DZVP    : GW gap    N/A   DFT LUMO    N/A
+ aug-TZVP    : GW gap    N/A   DFT LUMO    N/A
+
+Molecule: nccn  Formula: C1N1
+ aug-cc-pVDZ : GW gap  13.123   DFT LUMO  -2.608
+ aug-cc-pVTZ : GW gap  13.025   DFT LUMO  -2.637
+ aug-cc-pVQZ : GW gap  13.021   DFT LUMO  -2.644
+ aug-cc-pV5Z : GW gap  13.021   DFT LUMO  -2.643
+ aug-SZVSR   : GW gap    N/A   DFT LUMO    N/A
+ aug-SZV     : GW gap    N/A   DFT LUMO    N/A
+ aug-DZVP    : GW gap    N/A   DFT LUMO    N/A
+ aug-TZVP    : GW gap    N/A   DFT LUMO    N/A
+
+Molecule: nh2cl  Formula: H2N1
+ aug-cc-pVDZ : GW gap  11.121   DFT LUMO  -0.988
+ aug-cc-pVTZ : GW gap  11.201   DFT LUMO  -0.989
+ aug-cc-pVQZ : GW gap  11.271   DFT LUMO  -1.000
+ aug-cc-pV5Z : GW gap  11.280   DFT LUMO  -1.018
+ aug-SZVSR   : GW gap  11.215   DFT LUMO  -1.133
+ aug-SZV     : GW gap  11.748   DFT LUMO  -1.383
+ aug-DZVP    : GW gap  11.439   DFT LUMO  -1.012
+ aug-TZVP    : GW gap  11.288   DFT LUMO  -0.983
+
+Molecule: nh3  Formula: H3N1
+ aug-cc-pVDZ : GW gap  11.033   DFT LUMO  -0.182
+ aug-cc-pVTZ : GW gap  11.282   DFT LUMO  -0.212
+ aug-cc-pVQZ : GW gap  11.365   DFT LUMO  -0.226
+ aug-cc-pV5Z : GW gap  11.426   DFT LUMO  -0.239
+ aug-SZVSR   : GW gap  10.877   DFT LUMO   0.164
+ aug-SZV     : GW gap  11.620   DFT LUMO   0.205
+ aug-DZVP    : GW gap  11.495   DFT LUMO  -0.058
+ aug-TZVP    : GW gap  11.635   DFT LUMO  -0.092
+
+Molecule: o3  Formula: O3
+ aug-cc-pVDZ : GW gap  10.383   DFT LUMO  -5.244
+ aug-cc-pVTZ : GW gap  10.318   DFT LUMO  -5.207
+ aug-cc-pVQZ : GW gap  10.262   DFT LUMO  -5.203
+ aug-cc-pV5Z : GW gap  10.257   DFT LUMO  -5.204
+ aug-SZVSR   : GW gap  11.650   DFT LUMO  -2.133
+ aug-SZV     : GW gap  10.602   DFT LUMO  -6.609
+ aug-DZVP    : GW gap  10.392   DFT LUMO  -5.630
+ aug-TZVP    : GW gap  10.396   DFT LUMO  -5.283
+
+Molecule: ocs  Formula: C1O1S1
+ aug-cc-pVDZ : GW gap  12.002   DFT LUMO  -0.923
+ aug-cc-pVTZ : GW gap  12.031   DFT LUMO  -0.962
+ aug-cc-pVQZ : GW gap  12.122   DFT LUMO  -0.980
+ aug-cc-pV5Z : GW gap  12.159   DFT LUMO  -1.002
+ aug-SZVSR   : GW gap  13.149   DFT LUMO  -0.177
+ aug-SZV     : GW gap  12.779   DFT LUMO  -1.276
+ aug-DZVP    : GW gap  12.625   DFT LUMO  -0.988
+ aug-TZVP    : GW gap  12.408   DFT LUMO  -0.973
+
+Molecule: oxirane  Formula: H4C2O1
+ aug-cc-pVDZ : GW gap  10.868   DFT LUMO   0.080
+ aug-cc-pVTZ : GW gap  11.182   DFT LUMO   0.036
+ aug-cc-pVQZ : GW gap  11.325   DFT LUMO   0.013
+ aug-cc-pV5Z : GW gap  11.355   DFT LUMO  -0.014
+ aug-SZVSR   : GW gap  11.259   DFT LUMO   0.725
+ aug-SZV     : GW gap  11.660   DFT LUMO   0.460
+ aug-DZVP    : GW gap  11.507   DFT LUMO   0.183
+ aug-TZVP    : GW gap  11.517   DFT LUMO   0.116
+
+Molecule: oxirene  Formula: H2C2O1
+ aug-cc-pVDZ : GW gap   8.826   DFT LUMO  -0.602
+ aug-cc-pVTZ : GW gap   9.131   DFT LUMO  -0.616
+ aug-cc-pVQZ : GW gap   9.261   DFT LUMO  -0.621
+ aug-cc-pV5Z : GW gap   9.303   DFT LUMO  -0.620
+ aug-SZVSR   : GW gap   9.370   DFT LUMO  -0.117
+ aug-SZV     : GW gap   9.971   DFT LUMO  -0.685
+ aug-DZVP    : GW gap   9.514   DFT LUMO  -0.678
+ aug-TZVP    : GW gap   9.539   DFT LUMO  -0.595
+
+Molecule: ph3  Formula: H3P1
+ aug-cc-pVDZ : GW gap  10.755   DFT LUMO  -0.152
+ aug-cc-pVTZ : GW gap  10.924   DFT LUMO  -0.177
+ aug-cc-pVQZ : GW gap  11.028   DFT LUMO  -0.195
+ aug-cc-pV5Z : GW gap  11.080   DFT LUMO  -0.210
+ aug-SZVSR   : GW gap  11.736   DFT LUMO   0.394
+ aug-SZV     : GW gap  11.772   DFT LUMO   0.341
+ aug-DZVP    : GW gap  11.317   DFT LUMO   0.006
+ aug-TZVP    : GW gap  11.318   DFT LUMO  -0.043
+
+Molecule: propane  Formula: H8C3
+ aug-cc-pVDZ : GW gap  12.534   DFT LUMO   0.040
+ aug-cc-pVTZ : GW gap  12.774   DFT LUMO  -0.001
+ aug-cc-pVQZ : GW gap  12.861   DFT LUMO  -0.023
+ aug-cc-pV5Z : GW gap  12.865   DFT LUMO  -0.042
+ aug-SZVSR   : GW gap  13.057   DFT LUMO   0.479
+ aug-SZV     : GW gap  13.015   DFT LUMO   0.419
+ aug-DZVP    : GW gap  13.050   DFT LUMO   0.174
+ aug-TZVP    : GW gap  12.851   DFT LUMO   0.028
+
+Molecule: s2o  Formula: O1S2
+ aug-cc-pVDZ : GW gap   8.518   DFT LUMO  -4.125
+ aug-cc-pVTZ : GW gap   8.459   DFT LUMO  -4.087
+ aug-cc-pVQZ : GW gap   8.470   DFT LUMO  -4.077
+ aug-cc-pV5Z : GW gap   8.480   DFT LUMO  -4.069
+ aug-SZVSR   : GW gap   8.764   DFT LUMO  -3.482
+ aug-SZV     : GW gap   8.595   DFT LUMO  -4.324
+ aug-DZVP    : GW gap   8.679   DFT LUMO  -4.095
+ aug-TZVP    : GW gap   8.536   DFT LUMO  -4.065
+
+Molecule: s3  Formula: S3
+ aug-cc-pVDZ : GW gap   7.097   DFT LUMO  -4.499
+ aug-cc-pVTZ : GW gap   7.034   DFT LUMO  -4.452
+ aug-cc-pVQZ : GW gap   7.030   DFT LUMO  -4.441
+ aug-cc-pV5Z : GW gap   7.031   DFT LUMO  -4.433
+ aug-SZVSR   : GW gap   6.965   DFT LUMO  -4.415
+ aug-SZV     : GW gap   6.909   DFT LUMO  -4.415
+ aug-DZVP    : GW gap   7.186   DFT LUMO  -4.342
+ aug-TZVP    : GW gap   7.049   DFT LUMO  -4.417
+
+Molecule: sif4  Formula: F4
+ aug-cc-pVDZ : GW gap  16.824   DFT LUMO  -0.512
+ aug-cc-pVTZ : GW gap  17.070   DFT LUMO  -0.446
+ aug-cc-pVQZ : GW gap  17.245   DFT LUMO  -0.467
+ aug-cc-pV5Z : GW gap  17.229   DFT LUMO  -0.475
+ aug-SZVSR   : GW gap  18.982   DFT LUMO  -0.486
+ aug-SZV     : GW gap  17.886   DFT LUMO  -0.968
+ aug-DZVP    : GW gap  18.636   DFT LUMO   0.265
+ aug-TZVP    : GW gap  17.271   DFT LUMO  -0.340
+
+Molecule: sih3f  Formula: H3F1
+ aug-cc-pVDZ : GW gap  13.428   DFT LUMO  -0.393
+ aug-cc-pVTZ : GW gap  13.525   DFT LUMO  -0.424
+ aug-cc-pVQZ : GW gap  13.557   DFT LUMO  -0.427
+ aug-cc-pV5Z : GW gap  13.539   DFT LUMO  -0.442
+ aug-SZVSR   : GW gap  14.226   DFT LUMO  -0.547
+ aug-SZV     : GW gap  14.166   DFT LUMO  -0.518
+ aug-DZVP    : GW gap  13.930   DFT LUMO  -0.358
+ aug-TZVP    : GW gap  13.670   DFT LUMO  -0.421
+
+Molecule: sih4  Formula: H4
+ aug-cc-pVDZ : GW gap  13.323   DFT LUMO   0.033
+ aug-cc-pVTZ : GW gap  13.436   DFT LUMO  -0.011
+ aug-cc-pVQZ : GW gap  13.457   DFT LUMO  -0.042
+ aug-cc-pV5Z : GW gap  13.443   DFT LUMO  -0.066
+ aug-SZVSR   : GW gap  14.401   DFT LUMO   0.653
+ aug-SZV     : GW gap  14.118   DFT LUMO   0.508
+ aug-DZVP    : GW gap  13.733   DFT LUMO   0.170
+ aug-TZVP    : GW gap  13.509   DFT LUMO   0.019
+
+Molecule: so2  Formula: O2S1
+ aug-cc-pVDZ : GW gap  11.110   DFT LUMO  -3.555
+ aug-cc-pVTZ : GW gap  11.176   DFT LUMO  -3.537
+ aug-cc-pVQZ : GW gap  11.200   DFT LUMO  -3.528
+ aug-cc-pV5Z : GW gap  11.246   DFT LUMO  -3.517
+ aug-SZVSR   : GW gap  11.999   DFT LUMO  -2.195
+ aug-SZV     : GW gap  11.580   DFT LUMO  -4.346
+ aug-DZVP    : GW gap  11.406   DFT LUMO  -3.693
+ aug-TZVP    : GW gap  11.296   DFT LUMO  -3.532
+
+Molecule: so3  Formula: O3S1
+ aug-cc-pVDZ : GW gap  12.306   DFT LUMO  -2.611
+ aug-cc-pVTZ : GW gap  12.284   DFT LUMO  -2.566
+ aug-cc-pVQZ : GW gap  12.351   DFT LUMO  -2.629
+ aug-cc-pV5Z : GW gap  12.271   DFT LUMO  -2.696
+ aug-SZVSR   : GW gap  12.609   DFT LUMO  -1.315
+ aug-SZV     : GW gap  12.280   DFT LUMO  -3.948
+ aug-DZVP    : GW gap  12.308   DFT LUMO  -2.748
+ aug-TZVP    : GW gap  12.118   DFT LUMO  -2.728
+
+Molecule: t-hono  Formula: H1N1O2
+ aug-cc-pVDZ : GW gap  11.254   DFT LUMO  -2.389
+ aug-cc-pVTZ : GW gap  11.260   DFT LUMO  -2.370
+ aug-cc-pVQZ : GW gap  11.216   DFT LUMO  -2.370
+ aug-cc-pV5Z : GW gap  11.244   DFT LUMO  -2.371
+ aug-SZVSR   : GW gap  11.266   DFT LUMO  -0.933
+ aug-SZV     : GW gap  11.539   DFT LUMO  -3.647
+ aug-DZVP    : GW gap  11.370   DFT LUMO  -2.668
+ aug-TZVP    : GW gap  11.366   DFT LUMO  -2.396
+
